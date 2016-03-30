@@ -1,0 +1,19 @@
+{
+  "name": "gmaps-school-api",
+  "version": "0.0.1",
+  "description": "API for Google Maps Schools",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lfantone/gmaps-school-api.git"
+  },
+  "devDependencies": {
+
+  },
+  "dependencies": {
+
+  }
+}
