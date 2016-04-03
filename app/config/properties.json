@@ -1,0 +1,22 @@
+{
+  "koa": {
+    "hostname": "localhost",
+    "port": 3000
+  },
+  "logger": {
+    "colorize": true,
+    "level": "debug",
+    "timestamp": "YYYY-MM-DD HH:mm:ss,SSS"
+  },
+  "jwt": {
+    "passthrough": true,
+    "secret": "4Dv>N9Bsm_ugQ3;H"
+  },
+  "morgan": {
+    "format": "combined"
+  },
+  "cacheControl": {
+    "public": true,
+    "maxAge": 3600
+  }
+}
