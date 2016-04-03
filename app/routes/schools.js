@@ -20,6 +20,7 @@ module.exports = function(router) {
     ctx.status = 200;
     ctx.body = {
       success: true,
+      total: schools.length,
       data: schools
     };
   });

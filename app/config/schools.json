@@ -2,9 +2,11 @@
   "id": 60461900,
   "establishment": "Escuela Primaria Nº26 Constancio C. Vigil",
   "geo": {
-    "lat": -58.30632395923476,
-    "lng": -37.06868237716056
+    "lng": -58.30632395923476,
+    "lat": -37.06868237716056
   },
+  "licitation": 105,
+  "amount": 293000,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -13,9 +15,11 @@
   "id": 60428300,
   "establishment": "Escuela Primaria Nº4 Martin Miguel De Güemes",
   "geo": {
-    "lat": -59.80954586319384,
-    "lng": -35.65331795475979
+    "lng": -59.80954586319384,
+    "lat": -35.65331795475979
   },
+  "licitation": 123,
+  "amount": 2546085,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -24,9 +28,11 @@
   "id": 60664800,
   "establishment": "Escuela Primaria Nº18 Nicolas Avellaneda",
   "geo": {
-    "lat": -63.28055095023256,
-    "lng": -35.38570060212032
+    "lng": -63.28055095023256,
+    "lat": -35.38570060212032
   },
+  "licitation": 101,
+  "amount": 634419,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -35,9 +41,11 @@
   "id": 61398600,
   "establishment": "Escuela Primaria Nº10 Carlos F. Biocca",
   "geo": {
-    "lat": -58.464627194480414,
-    "lng": -35.19130510432604
+    "lng": -58.464627194480414,
+    "lat": -35.19130510432604
   },
+  "licitation": 136,
+  "amount": 1478200,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -46,9 +54,11 @@
   "id": 60226700,
   "establishment": "Escuela Primaria Nº9 Jose Hernandez",
   "geo": {
-    "lat": -63.0530210974798,
-    "lng": -37.373132873725396
+    "lng": -63.0530210974798,
+    "lat": -37.373132873725396
   },
+  "licitation": 181,
+  "amount": 1073380,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -57,9 +67,11 @@
   "id": 60273900,
   "establishment": "Escuela Primaria Nº6 Perito Moreno",
   "geo": {
-    "lat": -58.54173229733031,
-    "lng": -34.962896799760195
+    "lng": -58.54173229733031,
+    "lat": -34.962896799760195
   },
+  "licitation": 143,
+  "amount": 3493000,
   "status": {
     "id": 20,
     "name": "Elegibilidad"
@@ -68,9 +80,11 @@
   "id": 60688500,
   "establishment": "Escuela Primaria Nº12 Constancio C. Vigil",
   "geo": {
-    "lat": -58.99070226322339,
-    "lng": -34.880603184465805
+    "lng": -58.99070226322339,
+    "lat": -34.880603184465805
   },
+  "licitation": 130,
+  "amount": 971000,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -79,9 +93,11 @@
   "id": 60309800,
   "establishment": "Escuela Primaria Nº24 Juan Jose Paso",
   "geo": {
-    "lat": -59.762500129743145,
-    "lng": -33.74072102046505
+    "lng": -59.762500129743145,
+    "lat": -33.74072102046505
   },
+  "licitation": 126,
+  "amount": 2443762,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -90,9 +106,11 @@
   "id": 62168800,
   "establishment": "Jardin De Infantes Rural Nº5",
   "geo": {
-    "lat": -58.99040418518104,
-    "lng": -34.88054718754217
+    "lng": -58.99040418518104,
+    "lat": -34.88054718754217
   },
+  "licitation": 129,
+  "amount": 647811,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -101,9 +119,11 @@
   "id": 60790900,
   "establishment": "Escuela Agraria Nº1",
   "geo": {
-    "lat": -63.19263754078125,
-    "lng": -36.31529053279922
+    "lng": -63.19263754078125,
+    "lat": -36.31529053279922
   },
+  "licitation": 100,
+  "amount": 404978,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -112,9 +132,11 @@
   "id": 60560500,
   "establishment": "Escuela Primaria Nº44 Esteban Echeverria",
   "geo": {
-    "lat": -57.63231704151781,
-    "lng": -38.08293837805587
+    "lng": -57.63231704151781,
+    "lat": -38.08293837805587
   },
+  "licitation": 59,
+  "amount": 3470572,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -123,9 +145,11 @@
   "id": 61093300,
   "establishment": "Escuela De Educación Primaria Nº 9 \\almirante Guillermo Brown\\",
   "geo": {
-    "lat": -56.9491236096428,
-    "lng": -37.0268582125093
+    "lng": -56.9491236096428,
+    "lat": -37.0268582125093
   },
+  "licitation": 98,
+  "amount": 952000,
   "status": {
     "id": 20,
     "name": "Elegibilidad"
@@ -134,9 +158,11 @@
   "id": 62305700,
   "establishment": "Escuela De Educación Secundaria Técnica Nº1",
   "geo": {
-    "lat": -59.6861652282535,
-    "lng": -34.7694192459873
+    "lng": -59.6861652282535,
+    "lat": -34.7694192459873
   },
+  "licitation": 91,
+  "amount": 3915000,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -145,9 +171,11 @@
   "id": 62307800,
   "establishment": "Jardín De Infantes Nº946",
   "geo": {
-    "lat": -58.1634825999895,
-    "lng": -34.8858497556217
+    "lng": -58.1634825999895,
+    "lat": -34.8858497556217
   },
+  "licitation": 151,
+  "amount": 450000,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -156,9 +184,11 @@
   "id": 61640100,
   "establishment": "Centro De Educacion Física Nº42",
   "geo": {
-    "lat": -59.107978066790984,
-    "lng": -37.321606405093156
+    "lng": -59.107978066790984,
+    "lat": -37.321606405093156
   },
+  "licitation": 109,
+  "amount": 0,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -167,9 +197,11 @@
   "id": 60923800,
   "establishment": "Escuela Agraria Nº1 Dr. Alejandro Korn",
   "geo": {
-    "lat": -58.113924351969104,
-    "lng": -34.96209633681994
+    "lng": -58.113924351969104,
+    "lat": -34.96209633681994
   },
+  "licitation": 11,
+  "amount": 2324576,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -178,9 +210,11 @@
   "id": 60564700,
   "establishment": "Escuela Secundaria Nº4 Heroes De Malvinas",
   "geo": {
-    "lat": -58.66463156161203,
-    "lng": -34.63794122942504
+    "lng": -58.66463156161203,
+    "lat": -34.63794122942504
   },
+  "licitation": 53,
+  "amount": 1966000,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -189,9 +223,11 @@
   "id": 61821800,
   "establishment": "Esc. Secundaria Basica Nº20",
   "geo": {
-    "lat": -58.71171296781621,
-    "lng": -34.63052612631417
+    "lng": -58.71171296781621,
+    "lat": -34.63052612631417
   },
+  "licitation": 52,
+  "amount": 130550,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -200,9 +236,11 @@
   "id": 61780800,
   "establishment": "Escuela De Educación Secundaria Nº43",
   "geo": {
-    "lat": -58.40499423874794,
-    "lng": -34.714513051847646
+    "lng": -58.40499423874794,
+    "lat": -34.714513051847646
   },
+  "licitation": 45,
+  "amount": 1438814,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -211,9 +249,11 @@
   "id": 62046500,
   "establishment": "Escuela Secundaria Nº42",
   "geo": {
-    "lat": -57.65115067596553,
-    "lng": -38.137439461218996
+    "lng": -57.65115067596553,
+    "lat": -38.137439461218996
   },
+  "licitation": 199,
+  "amount": 1799289,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -222,9 +262,11 @@
   "id": 62122300,
   "establishment": "Escuela Primaria Nº14",
   "geo": {
-    "lat": -58.35677487017432,
-    "lng": -34.89428958328664
+    "lng": -58.35677487017432,
+    "lat": -34.89428958328664
   },
+  "licitation": 141,
+  "amount": 884000,
   "status": {
     "id": 20,
     "name": "Elegibilidad"
@@ -233,9 +275,11 @@
   "id": 61024800,
   "establishment": "Escuela Primaria Nº1 General San Martin",
   "geo": {
-    "lat": -57.8409551229184,
-    "lng": -38.270845880576985
+    "lng": -57.8409551229184,
+    "lat": -38.270845880576985
   },
+  "licitation": 84,
+  "amount": 871875,
   "status": {
     "id": 20,
     "name": "Elegibilidad"
@@ -244,9 +288,11 @@
   "id": 61759300,
   "establishment": "Escuela Secundaria Nº10",
   "geo": {
-    "lat": -58.70087346010198,
-    "lng": -34.61280183763642
+    "lng": -58.70087346010198,
+    "lat": -34.61280183763642
   },
+  "licitation": 57,
+  "amount": 3578900,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -255,9 +301,11 @@
   "id": 60644900,
   "establishment": "Escuela Primaria Nº29 Manuel Nicolas Savio",
   "geo": {
-    "lat": -58.84174754368216,
-    "lng": -34.61144873374589
+    "lng": -58.84174754368216,
+    "lat": -34.61144873374589
   },
+  "licitation": 86,
+  "amount": 920000,
   "status": {
     "id": 20,
     "name": "Elegibilidad"
@@ -266,9 +314,11 @@
   "id": 61144900,
   "establishment": "Escuela Primaria Nº49 Dr. Luis Pasteur",
   "geo": {
-    "lat": -58.299508598453755,
-    "lng": -34.816813919181996
+    "lng": -58.299508598453755,
+    "lat": -34.816813919181996
   },
+  "licitation": 28,
+  "amount": 512867,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -277,9 +327,11 @@
   "id": 61789900,
   "establishment": "Escuela De Educación Secundaria Nº26",
   "geo": {
-    "lat": -58.50198672246896,
-    "lng": -34.86217758962571
+    "lng": -58.50198672246896,
+    "lat": -34.86217758962571
   },
+  "licitation": 157,
+  "amount": 2126884,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -288,9 +340,11 @@
   "id": 61018400,
   "establishment": "Escuela Primaria Nº76 Capitan Pedro E.giachino",
   "geo": {
-    "lat": -58.33571430155576,
-    "lng": -34.771202693503916
+    "lng": -58.33571430155576,
+    "lat": -34.771202693503916
   },
+  "licitation": 35,
+  "amount": 645476,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -299,9 +353,11 @@
   "id": 61022000,
   "establishment": "Escuela Primaria Nº72",
   "geo": {
-    "lat": -58.33309886506943,
-    "lng": -34.77636204154522
+    "lng": -58.33309886506943,
+    "lat": -34.77636204154522
   },
+  "licitation": 134,
+  "amount": 8264204,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -310,9 +366,11 @@
   "id": 61731900,
   "establishment": "Escuela Secundaria Nº46",
   "geo": {
-    "lat": -57.93746209224363,
-    "lng": -34.93207802344273
+    "lng": -57.93746209224363,
+    "lat": -34.93207802344273
   },
+  "licitation": 10,
+  "amount": 1504891,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -321,9 +379,11 @@
   "id": 60913000,
   "establishment": "Escuela Primaria Nº22 Jorge Newbery",
   "geo": {
-    "lat": -57.561445118244976,
-    "lng": -37.948271742119445
+    "lng": -57.561445118244976,
+    "lat": -37.948271742119445
   },
+  "licitation": 197,
+  "amount": 1569405,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -332,9 +392,11 @@
   "id": 60550000,
   "establishment": "Escuela Primaria Nº5 Antartida Argentina",
   "geo": {
-    "lat": -56.870646858119706,
-    "lng": -37.104794744481154
+    "lng": -56.870646858119706,
+    "lat": -37.104794744481154
   },
+  "licitation": 92,
+  "amount": 612000,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -343,9 +405,11 @@
   "id": 61008800,
   "establishment": "Escuela Primaria Nº4 Luis Elias Vernet",
   "geo": {
-    "lat": -57.859243094376886,
-    "lng": -38.246135136731276
+    "lng": -57.859243094376886,
+    "lat": -38.246135136731276
   },
+  "licitation": 85,
+  "amount": 910000,
   "status": {
     "id": 20,
     "name": "Elegibilidad"
@@ -354,9 +418,11 @@
   "id": 60532500,
   "establishment": "Escuela Primaria Nº10 Domingo Faustino Sarmiento",
   "geo": {
-    "lat": -58.23415916104727,
-    "lng": -35.173280230462844
+    "lng": -58.23415916104727,
+    "lat": -35.173280230462844
   },
+  "licitation": 204,
+  "amount": 1994200,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -365,9 +431,11 @@
   "id": 61069400,
   "establishment": "Escuela Secundaria Nº22",
   "geo": {
-    "lat": -58.44990286302454,
-    "lng": -34.71057289114591
+    "lng": -58.44990286302454,
+    "lat": -34.71057289114591
   },
+  "licitation": 43,
+  "amount": 7017185,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -376,9 +444,11 @@
   "id": 60890700,
   "establishment": "Escuela Secundaria Nº3 Naciones Unidas",
   "geo": {
-    "lat": -57.9733397048325,
-    "lng": -34.95396926619557
+    "lng": -57.9733397048325,
+    "lat": -34.95396926619557
   },
+  "licitation": 187,
+  "amount": 1244000,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -387,9 +457,11 @@
   "id": 61772500,
   "establishment": "Escuela Secundaria Nº84",
   "geo": {
-    "lat": -58.048341560673414,
-    "lng": -34.92853014215163
+    "lng": -58.048341560673414,
+    "lat": -34.92853014215163
   },
+  "licitation": 189,
+  "amount": 6956092,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -398,9 +470,11 @@
   "id": 60483900,
   "establishment": "Jardin De Infantes Nº943",
   "geo": {
-    "lat": -62.247161063855934,
-    "lng": -38.76582120871974
+    "lng": -62.247161063855934,
+    "lat": -38.76582120871974
   },
+  "licitation": 110,
+  "amount": 519662,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -409,9 +483,11 @@
   "id": 60665500,
   "establishment": "Jardin De Infantes Nº901 Carlos A. Diehl",
   "geo": {
-    "lat": -62.97152314389628,
-    "lng": -35.48968199595701
+    "lng": -62.97152314389628,
+    "lat": -35.48968199595701
   },
+  "licitation": 207,
+  "amount": 0,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -420,9 +496,11 @@
   "id": 61008200,
   "establishment": "Escuela De Educación Agropecuaria Nº1 Bernardo Yraizoz",
   "geo": {
-    "lat": -57.85180517891511,
-    "lng": -38.236064394070524
+    "lng": -57.85180517891511,
+    "lat": -38.236064394070524
   },
+  "licitation": 80,
+  "amount": 1607200,
   "status": {
     "id": 20,
     "name": "Elegibilidad"
@@ -431,9 +509,11 @@
   "id": 60497600,
   "establishment": "Escuela Secundaria Nº1 Dr. Gustavo Martinez Zuviria",
   "geo": {
-    "lat": -58.234042664924225,
-    "lng": -35.169586755160566
+    "lng": -58.234042664924225,
+    "lat": -35.169586755160566
   },
+  "licitation": 203,
+  "amount": 1846700,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -442,9 +522,11 @@
   "id": 61819900,
   "establishment": "Escuela Secundaria Nº11",
   "geo": {
-    "lat": -58.68211932156557,
-    "lng": -34.670237113760955
+    "lng": -58.68211932156557,
+    "lat": -34.670237113760955
   },
+  "licitation": 54,
+  "amount": 4120650,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -453,9 +535,11 @@
   "id": 61862900,
   "establishment": "Escuela Secundaria Nº8",
   "geo": {
-    "lat": -58.5279827332954,
-    "lng": -34.87396771155023
+    "lng": -58.5279827332954,
+    "lat": -34.87396771155023
   },
+  "licitation": 34,
+  "amount": 3444786,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -464,9 +548,11 @@
   "id": 60142700,
   "establishment": "Jardin De Infantes Nº902 Juana Manso",
   "geo": {
-    "lat": -57.90664254111189,
-    "lng": -34.86491982809436
+    "lng": -57.90664254111189,
+    "lat": -34.86491982809436
   },
+  "licitation": 177,
+  "amount": 645775,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -475,9 +561,11 @@
   "id": 60203600,
   "establishment": "Escuela Primaria Nº72 Pedro Medrano",
   "geo": {
-    "lat": -58.43211501914074,
-    "lng": -34.67730977887765
+    "lng": -58.43211501914074,
+    "lat": -34.67730977887765
   },
+  "licitation": 47,
+  "amount": 716547,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -486,9 +574,11 @@
   "id": 60209000,
   "establishment": "Escuela Primaria Nº18 Olegario Victor Andrade",
   "geo": {
-    "lat": -58.534903458135744,
-    "lng": -34.52738090871305
+    "lng": -58.534903458135744,
+    "lat": -34.52738090871305
   },
+  "licitation": 72,
+  "amount": 4146300,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -497,9 +587,11 @@
   "id": 61818800,
   "establishment": "Escuela De Educación Secundaria Nº21 Nuestra Señora De Las ",
   "geo": {
-    "lat": -58.62688525511161,
-    "lng": -34.63789264591593
+    "lng": -58.62688525511161,
+    "lat": -34.63789264591593
   },
+  "licitation": 69,
+  "amount": 6924158,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -508,9 +600,11 @@
   "id": 61105900,
   "establishment": "Escuela Primaria Nº48 Bahia Buen Suceso",
   "geo": {
-    "lat": -58.30362706502716,
-    "lng": -34.72317107872676
+    "lng": -58.30362706502716,
+    "lat": -34.72317107872676
   },
+  "licitation": 163,
+  "amount": 721420,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -519,9 +613,11 @@
   "id": 60645400,
   "establishment": "Escuela Primaria Nº54 Jorge Newbery",
   "geo": {
-    "lat": -58.73323540734434,
-    "lng": -34.61095848909632
+    "lng": -58.73323540734434,
+    "lat": -34.61095848909632
   },
+  "licitation": 148,
+  "amount": 947511,
   "status": {
     "id": 20,
     "name": "Elegibilidad"
@@ -530,9 +626,11 @@
   "id": 60995600,
   "establishment": "Escuela Especial Nº502 Para Sordos E Hipoacusicos",
   "geo": {
-    "lat": -58.729244992716275,
-    "lng": -34.66717260484477
+    "lng": -58.729244992716275,
+    "lat": -34.66717260484477
   },
+  "licitation": 77,
+  "amount": 1035000,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -541,9 +639,11 @@
   "id": 60252200,
   "establishment": "Escuela Primaria Nº21 Antartida Argentina",
   "geo": {
-    "lat": -58.532970414342685,
-    "lng": -34.65204175416753
+    "lng": -58.532970414342685,
+    "lat": -34.65204175416753
   },
+  "licitation": 155,
+  "amount": 3335000,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -552,9 +652,11 @@
   "id": 60832700,
   "establishment": "Escuela Primaria Nº29 Sargento Cabral",
   "geo": {
-    "lat": -58.556895881502584,
-    "lng": -34.65255272776464
+    "lng": -58.556895881502584,
+    "lat": -34.65255272776464
   },
+  "licitation": 23,
+  "amount": 1509728,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -563,9 +665,11 @@
   "id": 60261400,
   "establishment": "Escuela Primaria Nº51 Brigadier Anacleto Llosa",
   "geo": {
-    "lat": -58.54096492646291,
-    "lng": -34.67715967471345
+    "lng": -58.54096492646291,
+    "lat": -34.67715967471345
   },
+  "licitation": 22,
+  "amount": 822092,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -574,9 +678,11 @@
   "id": 61035500,
   "establishment": "Jardin De Infantes Nº913 El Parque",
   "geo": {
-    "lat": -58.37850229120249,
-    "lng": -34.75536598748144
+    "lng": -58.37850229120249,
+    "lat": -34.75536598748144
   },
+  "licitation": 176,
+  "amount": 850491,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -585,9 +691,11 @@
   "id": 60841400,
   "establishment": "Escuela Primaria Nº29 Republica De Venezuela",
   "geo": {
-    "lat": -58.21951184048981,
-    "lng": -34.832345461953715
+    "lng": -58.21951184048981,
+    "lat": -34.832345461953715
   },
+  "licitation": 29,
+  "amount": 186635,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -596,9 +704,11 @@
   "id": 60699400,
   "establishment": "Escuela Primaria Nº14 Fragata Presidente Sarmiento",
   "geo": {
-    "lat": -58.35879943421162,
-    "lng": -34.78071693709154
+    "lng": -58.35879943421162,
+    "lat": -34.78071693709154
   },
+  "licitation": 135,
+  "amount": 8109076,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -607,9 +717,11 @@
   "id": 61187900,
   "establishment": "Escuela Primaria Nº3 Manuel Belgrano",
   "geo": {
-    "lat": -56.702887993698006,
-    "lng": -36.48851590023844
+    "lng": -56.702887993698006,
+    "lat": -36.48851590023844
   },
+  "licitation": 202,
+  "amount": 6958500,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -618,9 +730,11 @@
   "id": 61009300,
   "establishment": "Escuela Primaria Nº37 Granaderos A Caballo Gral. San Martin",
   "geo": {
-    "lat": -58.201503014031964,
-    "lng": -34.77730779354215
+    "lng": -58.201503014031964,
+    "lat": -34.77730779354215
   },
+  "licitation": 170,
+  "amount": 634350,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -629,9 +743,11 @@
   "id": 61167900,
   "establishment": "Escuela Secundaria Nº1",
   "geo": {
-    "lat": -58.20294001005995,
-    "lng": -34.81084018274695
+    "lng": -58.20294001005995,
+    "lat": -34.81084018274695
   },
+  "licitation": 165,
+  "amount": 2630000,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -640,9 +756,11 @@
   "id": 61038300,
   "establishment": "Jardin De Infantes Nº966 Pampa",
   "geo": {
-    "lat": -58.30585555782906,
-    "lng": -34.70897632314959
+    "lng": -58.30585555782906,
+    "lat": -34.70897632314959
   },
+  "licitation": 158,
+  "amount": 784700,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -651,9 +769,11 @@
   "id": 60863500,
   "establishment": "Escuela Secundaria Nº4 Cristo Obrero",
   "geo": {
-    "lat": -58.76075808095129,
-    "lng": -34.62104469166846
+    "lng": -58.76075808095129,
+    "lat": -34.62104469166846
   },
+  "licitation": 81,
+  "amount": 1330000,
   "status": {
     "id": 20,
     "name": "Elegibilidad"
@@ -662,9 +782,11 @@
   "id": 60962000,
   "establishment": "Jardin De Infantes Nº901 Manuel Belgrano",
   "geo": {
-    "lat": -58.78718252385998,
-    "lng": -34.6542521828414
+    "lng": -58.78718252385998,
+    "lat": -34.6542521828414
   },
+  "licitation": 128,
+  "amount": 1744226,
   "status": {
     "id": 20,
     "name": "Elegibilidad"
@@ -673,9 +795,11 @@
   "id": 61032200,
   "establishment": "Escuela Secundaria Nº5 Islas Malvinas",
   "geo": {
-    "lat": -58.58551589011181,
-    "lng": -34.66639834777179
+    "lng": -58.58551589011181,
+    "lat": -34.66639834777179
   },
+  "licitation": 16,
+  "amount": 577300,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -684,9 +808,11 @@
   "id": 62025800,
   "establishment": "Escuela Secundaria Nº1",
   "geo": {
-    "lat": -63.17345096231074,
-    "lng": -36.2726878318259
+    "lng": -63.17345096231074,
+    "lat": -36.2726878318259
   },
+  "licitation": 97,
+  "amount": 1668014,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -695,9 +821,11 @@
   "id": 61191800,
   "establishment": "Escuela De Educación Secundaria Técnica Nº1 Almirante Ramón",
   "geo": {
-    "lat": -62.077741006915105,
-    "lng": -38.88722777588713
+    "lng": -62.077741006915105,
+    "lat": -38.88722777588713
   },
+  "licitation": 121,
+  "amount": 657226,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -706,9 +834,11 @@
   "id": 60044900,
   "establishment": "Escuela Primaria Nº5 Jonas Salk",
   "geo": {
-    "lat": -58.44328012014732,
-    "lng": -35.00501393609566
+    "lng": -58.44328012014732,
+    "lat": -35.00501393609566
   },
+  "licitation": 146,
+  "amount": 468477,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -717,9 +847,11 @@
   "id": 60007000,
   "establishment": "Jardin De Infantes Nº901 Merceditas De San Martín",
   "geo": {
-    "lat": -58.4217042381372,
-    "lng": -35.02272728976728
+    "lng": -58.4217042381372,
+    "lat": -35.02272728976728
   },
+  "licitation": 144,
+  "amount": 602500,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -728,9 +860,11 @@
   "id": 60027500,
   "establishment": "Jardin De Infantes Nº913dr. Julio Cesar Loveccino",
   "geo": {
-    "lat": -61.93523791444253,
-    "lng": -37.45617789990874
+    "lng": -61.93523791444253,
+    "lat": -37.45617789990874
   },
+  "licitation": 74,
+  "amount": 1588987,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -739,9 +873,11 @@
   "id": 61805400,
   "establishment": "Escuela De Educación Secundaria Nº16",
   "geo": {
-    "lat": -58.69473165350323,
-    "lng": -34.660367931409006
+    "lng": -58.69473165350323,
+    "lat": -34.660367931409006
   },
+  "licitation": 75,
+  "amount": 4420889,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -750,9 +886,11 @@
   "id": 60840500,
   "establishment": "Escuela Primaria Nº31 Conrado Nale Roxlo",
   "geo": {
-    "lat": -58.196019242381205,
-    "lng": -34.824007499013064
+    "lng": -58.196019242381205,
+    "lat": -34.824007499013064
   },
+  "licitation": 30,
+  "amount": 1790310,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -761,9 +899,11 @@
   "id": 60505400,
   "establishment": "Escuela Secundaria Nº1 Paso Alsina",
   "geo": {
-    "lat": -62.62124663273211,
-    "lng": -39.91893841800108
+    "lng": -62.62124663273211,
+    "lat": -39.91893841800108
   },
+  "licitation": 201,
+  "amount": 3289300,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -772,9 +912,11 @@
   "id": 61652100,
   "establishment": "Centro Educativo Complementario Nº1 Don Bosco",
   "geo": {
-    "lat": -60.78814318075376,
-    "lng": -37.54802959995441
+    "lng": -60.78814318075376,
+    "lat": -37.54802959995441
   },
+  "licitation": 71,
+  "amount": 678300,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -783,9 +925,11 @@
   "id": 60550600,
   "establishment": "Jardin De Infantes Nº901",
   "geo": {
-    "lat": -56.85949132452639,
-    "lng": -37.11190980890026
+    "lng": -56.85949132452639,
+    "lat": -37.11190980890026
   },
+  "licitation": 99,
+  "amount": 284100,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -794,9 +938,11 @@
   "id": 61025100,
   "establishment": "Escuela Primaria Nº17 Malvinas Argentinas",
   "geo": {
-    "lat": -57.842176163355404,
-    "lng": -38.25640174952295
+    "lng": -57.842176163355404,
+    "lat": -38.25640174952295
   },
+  "licitation": 82,
+  "amount": 1188970,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -805,9 +951,11 @@
   "id": 61167000,
   "establishment": "Escuela Primaria Nº31 Marina Mercante Argentina",
   "geo": {
-    "lat": -58.183587100612755,
-    "lng": -34.805685831373545
+    "lng": -58.183587100612755,
+    "lat": -34.805685831373545
   },
+  "licitation": 164,
+  "amount": 5091231,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -816,9 +964,11 @@
   "id": 61662800,
   "establishment": "Centro Educativo Complementario Nº1 Un Lugar Para Mi",
   "geo": {
-    "lat": -58.542208088039864,
-    "lng": -34.62379706716568
+    "lng": -58.542208088039864,
+    "lat": -34.62379706716568
   },
+  "licitation": 137,
+  "amount": 962000,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -827,9 +977,11 @@
   "id": 61784100,
   "establishment": "Escuela Secundaria Nº6",
   "geo": {
-    "lat": -57.91782239421892,
-    "lng": -34.86399763102667
+    "lng": -57.91782239421892,
+    "lat": -34.86399763102667
   },
+  "licitation": 12,
+  "amount": 1395000,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -838,9 +990,11 @@
   "id": 60160800,
   "establishment": "Jardin De Infantes Nº901 Comandante Tomas Espora",
   "geo": {
-    "lat": -58.48318503531216,
-    "lng": -34.52306495573813
+    "lng": -58.48318503531216,
+    "lat": -34.52306495573813
   },
+  "licitation": 48,
+  "amount": 440737,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -849,9 +1003,11 @@
   "id": 60716500,
   "establishment": "Escuela Primaria Nº154 Republica De Italia",
   "geo": {
-    "lat": -58.59195315548206,
-    "lng": -34.71057740720635
+    "lng": -58.59195315548206,
+    "lat": -34.71057740720635
   },
+  "licitation": 20,
+  "amount": 1786483,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -860,9 +1016,11 @@
   "id": 61091300,
   "establishment": "Escuela Primaria Nº6 Nuestra Señora De La Merced",
   "geo": {
-    "lat": -58.55763817237648,
-    "lng": -34.69593352373651
+    "lng": -58.55763817237648,
+    "lat": -34.69593352373651
   },
+  "licitation": 153,
+  "amount": 5065750,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -871,9 +1029,11 @@
   "id": 61739600,
   "establishment": "Escuela Secundaria Nº20",
   "geo": {
-    "lat": -58.479549878466635,
-    "lng": -34.76750715926417
+    "lng": -58.479549878466635,
+    "lat": -34.76750715926417
   },
+  "licitation": 38,
+  "amount": 3022375,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -882,9 +1042,11 @@
   "id": 61773200,
   "establishment": "Escuela Secundaria Nº47",
   "geo": {
-    "lat": -58.058203598990794,
-    "lng": -34.88709074103794
+    "lng": -58.058203598990794,
+    "lat": -34.88709074103794
   },
+  "licitation": 190,
+  "amount": 6626878,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -893,9 +1055,11 @@
   "id": 60207000,
   "establishment": "Escuela Primaria Nº49 Tierra Del Fuego",
   "geo": {
-    "lat": -58.219975220758734,
-    "lng": -34.74253803031519
+    "lng": -58.219975220758734,
+    "lat": -34.74253803031519
   },
+  "licitation": 60,
+  "amount": 2486275,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -904,9 +1068,11 @@
   "id": 60430100,
   "establishment": "Escuela Primaria Nº48 Joaquin Tiradentes",
   "geo": {
-    "lat": -58.8618600093176,
-    "lng": -34.62305533564724
+    "lng": -58.8618600093176,
+    "lat": -34.62305533564724
   },
+  "licitation": 156,
+  "amount": 748999,
   "status": {
     "id": 20,
     "name": "Elegibilidad"
@@ -915,9 +1081,11 @@
   "id": 61704400,
   "establishment": "Escuela Primaria Nº212",
   "geo": {
-    "lat": -58.491688511394855,
-    "lng": -34.68988973458291
+    "lng": -58.491688511394855,
+    "lat": -34.68988973458291
   },
+  "licitation": 15,
+  "amount": 2990000,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -926,9 +1094,11 @@
   "id": 61498700,
   "establishment": "Centro De Formacion Laboral Nº3 Rodolfo J. Walsh",
   "geo": {
-    "lat": -58.05234696908218,
-    "lng": -34.954567410349085
+    "lng": -58.05234696908218,
+    "lat": -34.954567410349085
   },
+  "licitation": 186,
+  "amount": 605339,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -937,9 +1107,11 @@
   "id": 62042800,
   "establishment": "Escuela Secundaria Nº4",
   "geo": {
-    "lat": -62.22115542288262,
-    "lng": -34.94764647289005
+    "lng": -62.22115542288262,
+    "lat": -34.94764647289005
   },
+  "licitation": 114,
+  "amount": 645000,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -948,9 +1120,11 @@
   "id": 62043700,
   "establishment": "Escuela Secundaria Nº38",
   "geo": {
-    "lat": -58.440525810645816,
-    "lng": -34.753530937055004
+    "lng": -58.440525810645816,
+    "lat": -34.753530937055004
   },
+  "licitation": 175,
+  "amount": 450774,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -959,9 +1133,11 @@
   "id": 60921200,
   "establishment": "Escuela Primaria Nº33 Remedios Escalada De San Martin",
   "geo": {
-    "lat": -57.58640804161351,
-    "lng": -37.979070603179665
+    "lng": -57.58640804161351,
+    "lat": -37.979070603179665
   },
+  "licitation": 196,
+  "amount": 1479408,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -970,9 +1146,11 @@
   "id": 60554700,
   "establishment": "Escuela Primaria Nº16 Almafuerte",
   "geo": {
-    "lat": -58.64944166098348,
-    "lng": -34.61233130783102
+    "lng": -58.64944166098348,
+    "lat": -34.61233130783102
   },
+  "licitation": 51,
+  "amount": 2459887,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -981,9 +1159,11 @@
   "id": 61117600,
   "establishment": "Escuela Primaria Nº26 Ricardo Rojas",
   "geo": {
-    "lat": -58.649618029998194,
-    "lng": -34.59066267810032
+    "lng": -58.649618029998194,
+    "lat": -34.59066267810032
   },
+  "licitation": 50,
+  "amount": 195533,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -992,9 +1172,11 @@
   "id": 60026800,
   "establishment": "Escuela Primaria Nº2 Julio Argentino Roca",
   "geo": {
-    "lat": -58.75131080974425,
-    "lng": -34.522801246021935
+    "lng": -58.75131080974425,
+    "lat": -34.522801246021935
   },
+  "licitation": 89,
+  "amount": 648333,
   "status": {
     "id": 20,
     "name": "Elegibilidad"
@@ -1003,9 +1185,11 @@
   "id": 61334300,
   "establishment": "Escuela Primaria Nº37 Union Latinoamericana",
   "geo": {
-    "lat": -58.806320146316985,
-    "lng": -34.49973303443099
+    "lng": -58.806320146316985,
+    "lat": -34.49973303443099
   },
+  "licitation": 88,
+  "amount": 1275000,
   "status": {
     "id": 20,
     "name": "Elegibilidad"
@@ -1014,9 +1198,11 @@
   "id": 61178900,
   "establishment": "Escuela Especial Nº501",
   "geo": {
-    "lat": -62.966511091372915,
-    "lng": -36.751974437570624
+    "lng": -62.966511091372915,
+    "lat": -36.751974437570624
   },
+  "licitation": 95,
+  "amount": 576423,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1025,9 +1211,11 @@
   "id": 60822700,
   "establishment": "Escuela Primaria Nº4 General Bartolome Mitre",
   "geo": {
-    "lat": -62.260016837577325,
-    "lng": -38.716593224767344
+    "lng": -62.260016837577325,
+    "lat": -38.716593224767344
   },
+  "licitation": 111,
+  "amount": 449667,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1036,9 +1224,11 @@
   "id": 62023800,
   "establishment": "Escuela Secundaria Nº15",
   "geo": {
-    "lat": -58.37173518145488,
-    "lng": -34.7503534905999
+    "lng": -58.37173518145488,
+    "lat": -34.7503534905999
   },
+  "licitation": 13,
+  "amount": 1336724,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1047,9 +1237,11 @@
   "id": 61793100,
   "establishment": "Esc. Secundaria Basica Nº51",
   "geo": {
-    "lat": -58.29684252751696,
-    "lng": -34.81269352845075
+    "lng": -58.29684252751696,
+    "lat": -34.81269352845075
   },
+  "licitation": 25,
+  "amount": 5941670,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1058,9 +1250,11 @@
   "id": 60281500,
   "establishment": "Escuela Primaria Nº49 Nuestra Señora De Los Buenos Aires",
   "geo": {
-    "lat": -58.412880709095234,
-    "lng": -34.742759200383205
+    "lng": -58.412880709095234,
+    "lat": -34.742759200383205
   },
+  "licitation": 174,
+  "amount": 1057900,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1069,9 +1263,11 @@
   "id": 61740800,
   "establishment": "Escuela Secundaria Nº20",
   "geo": {
-    "lat": -57.59531609799546,
-    "lng": -37.887343915517356
+    "lng": -57.59531609799546,
+    "lat": -37.887343915517356
   },
+  "licitation": 62,
+  "amount": 1881400,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1080,9 +1276,11 @@
   "id": 61025600,
   "establishment": "Escuela Especial Nº501 Solidaridad",
   "geo": {
-    "lat": -57.84405182350472,
-    "lng": -38.27170343866178
+    "lng": -57.84405182350472,
+    "lat": -38.27170343866178
   },
+  "licitation": 76,
+  "amount": 4147975,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1091,9 +1289,11 @@
   "id": 61818200,
   "establishment": "Esc. Secundaria Basica Nº8",
   "geo": {
-    "lat": -58.412195380501956,
-    "lng": -35.03222816177446
+    "lng": -58.412195380501956,
+    "lat": -35.03222816177446
   },
+  "licitation": 142,
+  "amount": 960200,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1102,9 +1302,11 @@
   "id": 60906800,
   "establishment": "Escuela Primaria Nº72 Ezequiel Martinez Estrada",
   "geo": {
-    "lat": -62.21864134426705,
-    "lng": -38.73016622064275
+    "lng": -62.21864134426705,
+    "lat": -38.73016622064275
   },
+  "licitation": 118,
+  "amount": 847225,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1113,9 +1315,11 @@
   "id": 60641600,
   "establishment": "Escuela Primaria Nº59 Prof. Victor Mercante",
   "geo": {
-    "lat": -57.88349332540215,
-    "lng": -34.93980356250368
+    "lng": -57.88349332540215,
+    "lat": -34.93980356250368
   },
+  "licitation": 188,
+  "amount": 1360000,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1124,9 +1328,11 @@
   "id": 61457800,
   "establishment": "Escuela Polimodal De Arte Nº1",
   "geo": {
-    "lat": -58.456686714449035,
-    "lng": -34.80674591873836
+    "lng": -58.456686714449035,
+    "lat": -34.80674591873836
   },
+  "licitation": 36,
+  "amount": 3363485,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1135,9 +1341,11 @@
   "id": 60676100,
   "establishment": "Escuela Primaria Nº76 Perito Francisco P. Moreno",
   "geo": {
-    "lat": -58.428879067472806,
-    "lng": -34.73930244650201
+    "lng": -58.428879067472806,
+    "lat": -34.73930244650201
   },
+  "licitation": 173,
+  "amount": 574921,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1146,9 +1354,11 @@
   "id": 60347000,
   "establishment": "Escuela Primaria Nº65 Crucero General Belgrano",
   "geo": {
-    "lat": -58.79294362763425,
-    "lng": -34.624897946781964
+    "lng": -58.79294362763425,
+    "lat": -34.624897946781964
   },
+  "licitation": 152,
+  "amount": 968775,
   "status": {
     "id": 20,
     "name": "Elegibilidad"
@@ -1157,9 +1367,11 @@
   "id": 61078500,
   "establishment": "Escuela Primaria Nº12 Vicenta Castro Cambon",
   "geo": {
-    "lat": -58.844327663830335,
-    "lng": -34.63935829251592
+    "lng": -58.844327663830335,
+    "lat": -34.63935829251592
   },
+  "licitation": 83,
+  "amount": 1100324,
   "status": {
     "id": 20,
     "name": "Elegibilidad"
@@ -1168,9 +1380,11 @@
   "id": 60996800,
   "establishment": "Escuela Primaria Nº26 Almafuerte",
   "geo": {
-    "lat": -58.219773550940516,
-    "lng": -34.78115438718736
+    "lng": -58.219773550940516,
+    "lat": -34.78115438718736
   },
+  "licitation": 147,
+  "amount": 670000,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1179,9 +1393,11 @@
   "id": 61101500,
   "establishment": "Jardin De Infantes Nº901 Maria Elisa Figueroa",
   "geo": {
-    "lat": -58.236427031047675,
-    "lng": -35.16860604097105
+    "lng": -58.236427031047675,
+    "lat": -35.16860604097105
   },
+  "licitation": 205,
+  "amount": 1982400,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1190,9 +1406,11 @@
   "id": 61118500,
   "establishment": "Escuela Primaria Nº6 Yapeyu",
   "geo": {
-    "lat": -58.652336178485164,
-    "lng": -34.57555200843548
+    "lng": -58.652336178485164,
+    "lat": -34.57555200843548
   },
+  "licitation": 139,
+  "amount": 2775000,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1201,9 +1419,11 @@
   "id": 60898400,
   "establishment": "Escuela Primaria Nº11 Florentino Ameghino",
   "geo": {
-    "lat": -57.93753708056681,
-    "lng": -34.93214238029954
+    "lng": -57.93753708056681,
+    "lat": -34.93214238029954
   },
+  "licitation": 195,
+  "amount": 1122179,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1212,9 +1432,11 @@
   "id": 61769800,
   "establishment": "Esc. Secundaria Basica Nº26",
   "geo": {
-    "lat": -57.99829186227722,
-    "lng": -34.88851358661117
+    "lng": -57.99829186227722,
+    "lat": -34.88851358661117
   },
+  "licitation": 192,
+  "amount": 1882077,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1223,9 +1445,11 @@
   "id": 61673300,
   "establishment": "Escuela Especial Nº505",
   "geo": {
-    "lat": -58.46267141178563,
-    "lng": -34.80803492685793
+    "lng": -58.46267141178563,
+    "lat": -34.80803492685793
   },
+  "licitation": 73,
+  "amount": 4383128,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1234,9 +1458,11 @@
   "id": 61143900,
   "establishment": "Escuela Primaria Nº21 Antartida Argentina",
   "geo": {
-    "lat": -58.29324173034192,
-    "lng": -34.782117302165545
+    "lng": -58.29324173034192,
+    "lat": -34.782117302165545
   },
+  "licitation": 27,
+  "amount": 5427540,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1245,9 +1471,11 @@
   "id": 60844400,
   "establishment": "Escuela Primaria Nº51 Juan Omar Abrahan",
   "geo": {
-    "lat": -58.26530602539583,
-    "lng": -34.802577336286255
+    "lng": -58.26530602539583,
+    "lat": -34.802577336286255
   },
+  "licitation": 26,
+  "amount": 8070518,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1256,9 +1484,11 @@
   "id": 61213300,
   "establishment": "Escuela Primaria Nº8 Sgto Juan Bautista Cabral",
   "geo": {
-    "lat": -58.50555928865833,
-    "lng": -34.4824948763609
+    "lng": -58.50555928865833,
+    "lat": -34.4824948763609
   },
+  "licitation": 39,
+  "amount": 530607,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1267,9 +1497,11 @@
   "id": 61000000,
   "establishment": "Escuela Primaria Nº44 Miguel Cane",
   "geo": {
-    "lat": -58.24345128514226,
-    "lng": -34.749860084210304
+    "lng": -58.24345128514226,
+    "lat": -34.749860084210304
   },
+  "licitation": 162,
+  "amount": 2154700,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1278,9 +1510,11 @@
   "id": 60671900,
   "establishment": "Escuela De Educación Secundaria Técnica Nº2",
   "geo": {
-    "lat": -58.51809291153426,
-    "lng": -34.52512513846855
+    "lng": -58.51809291153426,
+    "lat": -34.52512513846855
   },
+  "licitation": 49,
+  "amount": 2406020,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1289,9 +1523,11 @@
   "id": 60110100,
   "establishment": "Jardin De Infantes Nº919 Alihuen",
   "geo": {
-    "lat": -58.19806192881783,
-    "lng": -34.77089196539154
+    "lng": -58.19806192881783,
+    "lat": -34.77089196539154
   },
+  "licitation": 149,
+  "amount": 645900,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1300,9 +1536,11 @@
   "id": 60550300,
   "establishment": "Escuela Primaria Nº1 Constancio C Vigil",
   "geo": {
-    "lat": -56.86534811836097,
-    "lng": -37.1111469525727
+    "lng": -56.86534811836097,
+    "lat": -37.1111469525727
   },
+  "licitation": 93,
+  "amount": 348000,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1311,9 +1549,11 @@
   "id": 60320300,
   "establishment": "Escuela Primaria Nº8 Hipolito Yrigoyen",
   "geo": {
-    "lat": -57.83964682274585,
-    "lng": -38.11963168476846
+    "lng": -57.83964682274585,
+    "lat": -38.11963168476846
   },
+  "licitation": 87,
+  "amount": 693765,
   "status": {
     "id": 20,
     "name": "Elegibilidad"
@@ -1322,9 +1562,11 @@
   "id": 61157000,
   "establishment": "Escuela Primaria Nº36 Fray Luis Beltran",
   "geo": {
-    "lat": -57.59140460957131,
-    "lng": -38.0317595016051
+    "lng": -57.59140460957131,
+    "lat": -38.0317595016051
   },
+  "licitation": 198,
+  "amount": 1580938,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1333,9 +1575,11 @@
   "id": 60716100,
   "establishment": "Escuela Especial Nº510 America Latina",
   "geo": {
-    "lat": -58.59760161044317,
-    "lng": -34.71924126698435
+    "lng": -58.59760161044317,
+    "lat": -34.71924126698435
   },
+  "licitation": 18,
+  "amount": 1135639,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1344,9 +1588,11 @@
   "id": 60946700,
   "establishment": "Escuela Primaria Nº20 Florencio Molina Campos",
   "geo": {
-    "lat": -58.82404844218394,
-    "lng": -34.675817704128065
+    "lng": -58.82404844218394,
+    "lat": -34.675817704128065
   },
+  "licitation": 120,
+  "amount": 1574213,
   "status": {
     "id": 20,
     "name": "Elegibilidad"
@@ -1355,9 +1601,11 @@
   "id": 60776200,
   "establishment": "Escuela Primaria Nº29 Miguel Martin De Güemes",
   "geo": {
-    "lat": -58.26253795024634,
-    "lng": -34.713021519171825
+    "lng": -58.26253795024634,
+    "lat": -34.713021519171825
   },
+  "licitation": 58,
+  "amount": 2604850,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1366,9 +1614,11 @@
   "id": 61106200,
   "establishment": "Escuela Primaria Nº46 Brigadier General Don Juan Manuel De",
   "geo": {
-    "lat": -58.29285750488519,
-    "lng": -34.70193486529141
+    "lng": -58.29285750488519,
+    "lat": -34.70193486529141
   },
+  "licitation": 65,
+  "amount": 649261,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1377,9 +1627,11 @@
   "id": 60680600,
   "establishment": "Escuela Primaria Nº20 Cecilia Mattaldi De Rigolleau",
   "geo": {
-    "lat": -58.18764634922069,
-    "lng": -34.76703148983689
+    "lng": -58.18764634922069,
+    "lat": -34.76703148983689
   },
+  "licitation": 169,
+  "amount": 646587,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1388,9 +1640,11 @@
   "id": 60593300,
   "establishment": "Escuela De Educación Secundaria Técnica Nº2",
   "geo": {
-    "lat": -57.54677898735754,
-    "lng": -37.99690671838829
+    "lng": -57.54677898735754,
+    "lat": -37.99690671838829
   },
+  "licitation": 66,
+  "amount": 490186,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1399,9 +1653,11 @@
   "id": 60926900,
   "establishment": "Escuela Primaria Nº57 Independencia",
   "geo": {
-    "lat": -57.58812827542415,
-    "lng": -37.97379903124625
+    "lng": -57.58812827542415,
+    "lat": -37.97379903124625
   },
+  "licitation": 70,
+  "amount": 1463100,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1410,9 +1666,11 @@
   "id": 61697300,
   "establishment": "Jardin De Infantes Nº946",
   "geo": {
-    "lat": -58.327598959235935,
-    "lng": -34.78639194681201
+    "lng": -58.327598959235935,
+    "lat": -34.78639194681201
   },
+  "licitation": 31,
+  "amount": 1123756,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1421,9 +1679,11 @@
   "id": 60304400,
   "establishment": "Escuela Primaria Nº41 Profesor Francisco Guerrini",
   "geo": {
-    "lat": -58.0159149955544,
-    "lng": -34.920527885860935
+    "lng": -58.0159149955544,
+    "lat": -34.920527885860935
   },
+  "licitation": 194,
+  "amount": 513289,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1432,9 +1692,11 @@
   "id": 60622700,
   "establishment": "Escuela Primaria Nº92 America",
   "geo": {
-    "lat": -58.046021857232375,
-    "lng": -34.9049869015693
+    "lng": -58.046021857232375,
+    "lat": -34.9049869015693
   },
+  "licitation": 183,
+  "amount": 1171739,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1443,9 +1705,11 @@
   "id": 60752500,
   "establishment": "Escuela Primaria Nº13 Almafuerte",
   "geo": {
-    "lat": -58.269441137043366,
-    "lng": -34.78101990136605
+    "lng": -58.269441137043366,
+    "lat": -34.78101990136605
   },
+  "licitation": 33,
+  "amount": 631011,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1454,9 +1718,11 @@
   "id": 61316300,
   "establishment": "Escuela Primaria Nº94 Santa Catalina",
   "geo": {
-    "lat": -58.47525705421597,
-    "lng": -34.749783531567644
+    "lng": -58.47525705421597,
+    "lat": -34.749783531567644
   },
+  "licitation": 171,
+  "amount": 465000,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1465,9 +1731,11 @@
   "id": 60819200,
   "establishment": "Escuela Primaria Nº78 25 De Mayo",
   "geo": {
-    "lat": -58.60910371626404,
-    "lng": -34.72914675177515
+    "lng": -58.60910371626404,
+    "lat": -34.72914675177515
   },
+  "licitation": 24,
+  "amount": 520432,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1476,9 +1744,11 @@
   "id": 61983200,
   "establishment": "Esc. Secundaria Basica Nº18",
   "geo": {
-    "lat": -58.586044832659574,
-    "lng": -34.646974650002555
+    "lng": -58.586044832659574,
+    "lat": -34.646974650002555
   },
+  "licitation": 79,
+  "amount": 4894723,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1487,9 +1757,11 @@
   "id": 60252400,
   "establishment": "Escuela Primaria Nº15 Nuestra Señora De Itati",
   "geo": {
-    "lat": -58.58856418507685,
-    "lng": -34.4699870812418
+    "lng": -58.58856418507685,
+    "lat": -34.4699870812418
   },
+  "licitation": 133,
+  "amount": 1574900,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1498,9 +1770,11 @@
   "id": 61134700,
   "establishment": "Escuela Primaria Nº62 Alfonsina Storni",
   "geo": {
-    "lat": -58.355040852955646,
-    "lng": -34.72172945452012
+    "lng": -58.355040852955646,
+    "lat": -34.72172945452012
   },
+  "licitation": 44,
+  "amount": 785818,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1509,9 +1783,11 @@
   "id": 61010800,
   "establishment": "Escuela Primaria Nº3 Jose Manuel Estrada",
   "geo": {
-    "lat": -58.20315168756698,
-    "lng": -34.810990379037676
+    "lng": -58.20315168756698,
+    "lat": -34.810990379037676
   },
+  "licitation": 168,
+  "amount": 1290516,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1520,9 +1796,11 @@
   "id": 61197200,
   "establishment": "Escuela Secundaria Nº1 Corbeta Uruguay",
   "geo": {
-    "lat": -56.868866993143335,
-    "lng": -37.1127928962872
+    "lng": -56.868866993143335,
+    "lat": -37.1127928962872
   },
+  "licitation": 96,
+  "amount": 215000,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1531,9 +1809,11 @@
   "id": 61488200,
   "establishment": "Jardin De Infantes Nº905",
   "geo": {
-    "lat": -56.901272558462,
-    "lng": -37.13871680463863
+    "lng": -56.901272558462,
+    "lat": -37.13871680463863
   },
+  "licitation": 102,
+  "amount": 275000,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1542,9 +1822,11 @@
   "id": 60595300,
   "establishment": "Escuela Especial Nº501 Hena Yanzon",
   "geo": {
-    "lat": -59.67174717816386,
-    "lng": -33.67540337121208
+    "lng": -59.67174717816386,
+    "lat": -33.67540337121208
   },
+  "licitation": 124,
+  "amount": 1404436,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1553,9 +1835,11 @@
   "id": 60082600,
   "establishment": "Escuela Primaria Nº39 Sargento Cabral",
   "geo": {
-    "lat": -60.18499177610398,
-    "lng": -33.3978846961668
+    "lng": -60.18499177610398,
+    "lat": -33.3978846961668
   },
+  "licitation": 108,
+  "amount": 3945200,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1564,9 +1848,11 @@
   "id": 61329200,
   "establishment": "Escuela Primaria Nº80 Ejercito Argentino",
   "geo": {
-    "lat": -58.817107254913715,
-    "lng": -34.672919178608225
+    "lng": -58.817107254913715,
+    "lat": -34.672919178608225
   },
+  "licitation": 125,
+  "amount": 1698411,
   "status": {
     "id": 20,
     "name": "Elegibilidad"
@@ -1575,9 +1861,11 @@
   "id": 60194200,
   "establishment": "Jardin De Infantes Nº903 Dr.ricardo Gutierrez",
   "geo": {
-    "lat": -58.400217691938195,
-    "lng": -34.72874053060357
+    "lng": -58.400217691938195,
+    "lat": -34.72874053060357
   },
+  "licitation": 46,
+  "amount": 875477,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1586,9 +1874,11 @@
   "id": 61804600,
   "establishment": "Esc. Secundaria Basica Nº18",
   "geo": {
-    "lat": -58.705907088387995,
-    "lng": -34.64599376857843
+    "lng": -58.705907088387995,
+    "lat": -34.64599376857843
   },
+  "licitation": 55,
+  "amount": 3780200,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1597,9 +1887,11 @@
   "id": 60825900,
   "establishment": "Escuela De Educación Secundaria Técnica Nº1 Cnel. Manuel Do",
   "geo": {
-    "lat": -58.760178513953605,
-    "lng": -35.05937711034194
+    "lng": -58.760178513953605,
+    "lat": -35.05937711034194
   },
+  "licitation": 131,
+  "amount": 682411,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1608,9 +1900,11 @@
   "id": 61821700,
   "establishment": "Escuela Secundaria Nº57",
   "geo": {
-    "lat": -57.611571180391614,
-    "lng": -37.95238602571278
+    "lng": -57.611571180391614,
+    "lat": -37.95238602571278
   },
+  "licitation": 63,
+  "amount": 632114,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1619,9 +1913,11 @@
   "id": 60885500,
   "establishment": "Escuela Primaria Nº79 Jose Maria Bustillo",
   "geo": {
-    "lat": -57.96341604555528,
-    "lng": -34.893067749134275
+    "lng": -57.96341604555528,
+    "lat": -34.893067749134275
   },
+  "licitation": 182,
+  "amount": 560498,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1630,9 +1926,11 @@
   "id": 60623100,
   "establishment": "Escuela Secundaria Nº32 Mary O Graham",
   "geo": {
-    "lat": -57.956903048984614,
-    "lng": -34.92229728313151
+    "lng": -57.956903048984614,
+    "lat": -34.92229728313151
   },
+  "licitation": 41,
+  "amount": 15525000,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1641,9 +1939,11 @@
   "id": 61672000,
   "establishment": "Jardin De Infantes Nº977 Jose Melchor Romero",
   "geo": {
-    "lat": -58.04525745846962,
-    "lng": -34.9498515945651
+    "lng": -58.04525745846962,
+    "lat": -34.9498515945651
   },
+  "licitation": 185,
+  "amount": 377584,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1652,9 +1952,11 @@
   "id": 60655800,
   "establishment": "Jardin De Infantes Nº907",
   "geo": {
-    "lat": -61.10925718721806,
-    "lng": -33.89444313077361
+    "lng": -61.10925718721806,
+    "lat": -33.89444313077361
   },
+  "licitation": 112,
+  "amount": 650000,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1663,9 +1965,11 @@
   "id": 60897200,
   "establishment": "Escuela Primaria Nº2 General Jose De San Martin",
   "geo": {
-    "lat": -60.1041179164188,
-    "lng": -34.06400028453991
+    "lng": -60.1041179164188,
+    "lat": -34.06400028453991
   },
+  "licitation": 127,
+  "amount": 1232453,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1674,9 +1978,11 @@
   "id": 61319600,
   "establishment": "Escuela Primaria Nº55 Bandera De Los Andes",
   "geo": {
-    "lat": -58.18989051862969,
-    "lng": -34.828179959635364
+    "lng": -58.18989051862969,
+    "lat": -34.828179959635364
   },
+  "licitation": 145,
+  "amount": 514000,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1685,9 +1991,11 @@
   "id": 61136700,
   "establishment": "Escuela Primaria Nº24 Doctor Dardo Rocha",
   "geo": {
-    "lat": -57.904281640472234,
-    "lng": -34.92396429870013
+    "lng": -57.904281640472234,
+    "lat": -34.92396429870013
   },
+  "licitation": 14,
+  "amount": 981869,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1696,9 +2004,11 @@
   "id": 60266400,
   "establishment": "Escuela Primaria Nº48 Fragata Presidente Sarmiento",
   "geo": {
-    "lat": -58.66164138914019,
-    "lng": -34.683268270759434
+    "lng": -58.66164138914019,
+    "lat": -34.683268270759434
   },
+  "licitation": 78,
+  "amount": 887485,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1707,9 +2017,11 @@
   "id": 62085500,
   "establishment": "Centro Educativo Para La Produccion Total Nº34",
   "geo": {
-    "lat": -59.79313635181121,
-    "lng": -38.357174450049804
+    "lng": -59.79313635181121,
+    "lat": -38.357174450049804
   },
+  "licitation": 107,
+  "amount": 0,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1718,9 +2030,11 @@
   "id": 60907000,
   "establishment": "Escuela Primaria Nº22 España",
   "geo": {
-    "lat": -62.286064699456084,
-    "lng": -38.71822787660397
+    "lng": -62.286064699456084,
+    "lat": -38.71822787660397
   },
+  "licitation": 117,
+  "amount": 725366,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1729,9 +2043,11 @@
   "id": 61399100,
   "establishment": "Escuela Primaria Nº21 Provincias Argentinas",
   "geo": {
-    "lat": -58.76649571615572,
-    "lng": -34.504410443325206
+    "lng": -58.76649571615572,
+    "lat": -34.504410443325206
   },
+  "licitation": 90,
+  "amount": 10938844,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1740,9 +2056,11 @@
   "id": 60366400,
   "establishment": "Escuela Primaria Nº1 Francisco Narciso Laprida",
   "geo": {
-    "lat": -58.199014258462356,
-    "lng": -34.77061686401052
+    "lng": -58.199014258462356,
+    "lat": -34.77061686401052
   },
+  "licitation": 21,
+  "amount": 398560,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1751,9 +2069,11 @@
   "id": 61319700,
   "establishment": "Escuela Primaria Nº56",
   "geo": {
-    "lat": -58.179541399261424,
-    "lng": -34.88003245122216
+    "lng": -58.179541399261424,
+    "lat": -34.88003245122216
   },
+  "licitation": 154,
+  "amount": 4713074,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1762,9 +2082,11 @@
   "id": 61839400,
   "establishment": "Esuela De Educación Secundaria Nº46",
   "geo": {
-    "lat": -58.17912853256096,
-    "lng": -34.879694008803185
+    "lng": -58.17912853256096,
+    "lat": -34.879694008803185
   },
+  "licitation": 167,
+  "amount": 435539,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1773,9 +2095,11 @@
   "id": 60096800,
   "establishment": "Escuela Primaria Nº58 Contralmirante Francisco Jose Segui",
   "geo": {
-    "lat": -58.27021126673622,
-    "lng": -34.74339425313061
+    "lng": -58.27021126673622,
+    "lat": -34.74339425313061
   },
+  "licitation": 64,
+  "amount": 857164,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1784,9 +2108,11 @@
   "id": 60769300,
   "establishment": "Escuela Primaria Nº65 Comodoro Luis Py",
   "geo": {
-    "lat": -58.32228620251714,
-    "lng": -34.724185098537056
+    "lng": -58.32228620251714,
+    "lat": -34.724185098537056
   },
+  "licitation": 61,
+  "amount": 972336,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1795,9 +2121,11 @@
   "id": 61316200,
   "establishment": "Escuela Primaria Nº92 2 De Abril",
   "geo": {
-    "lat": -58.47185780210564,
-    "lng": -34.742582544642744
+    "lng": -58.47185780210564,
+    "lat": -34.742582544642744
   },
+  "licitation": 172,
+  "amount": 684992,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1806,9 +2134,11 @@
   "id": 60315200,
   "establishment": "Escuela Primaria Nº70 19 De Noviembre",
   "geo": {
-    "lat": -58.06003018010498,
-    "lng": -34.97705791410189
+    "lng": -58.06003018010498,
+    "lat": -34.97705791410189
   },
+  "licitation": 191,
+  "amount": 2173558,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1817,9 +2147,11 @@
   "id": 60855000,
   "establishment": "Escuela De Educación Secundaria Técnica Nº6 Albert Thomas",
   "geo": {
-    "lat": -57.9379947965094,
-    "lng": -34.91317219995734
+    "lng": -57.9379947965094,
+    "lat": -34.91317219995734
   },
+  "licitation": 178,
+  "amount": 5995577,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1828,9 +2160,11 @@
   "id": 61136800,
   "establishment": "Jardin De Infantes Nº943 Ministro Zarini",
   "geo": {
-    "lat": -57.94688332576793,
-    "lng": -34.92657063582569
+    "lng": -57.94688332576793,
+    "lat": -34.92657063582569
   },
+  "licitation": 184,
+  "amount": 3020799,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1839,9 +2173,11 @@
   "id": 61288400,
   "establishment": "Escuela De Teatro La Plata",
   "geo": {
-    "lat": -57.94562919644245,
-    "lng": -34.91189591550994
+    "lng": -57.94562919644245,
+    "lat": -34.91189591550994
   },
+  "licitation": 193,
+  "amount": 650177,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1850,9 +2186,11 @@
   "id": 61145100,
   "establishment": "Escuela Primaria Nº1 Jose De San Martin",
   "geo": {
-    "lat": -58.5203541085637,
-    "lng": -34.846730310022586
+    "lng": -58.5203541085637,
+    "lat": -34.846730310022586
   },
+  "licitation": 32,
+  "amount": 850780,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1861,9 +2199,11 @@
   "id": 60456300,
   "establishment": "Escuela Primaria Nº171 Mariano Severo Balcarce",
   "geo": {
-    "lat": -58.56497751870757,
-    "lng": -34.72092571194563
+    "lng": -58.56497751870757,
+    "lat": -34.72092571194563
   },
+  "licitation": 19,
+  "amount": 1432468,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1872,9 +2212,11 @@
   "id": 60924200,
   "establishment": "Escuela Primaria Nº3 Nicolas Avellaneda",
   "geo": {
-    "lat": -60.01280213038918,
-    "lng": -34.900452323270784
+    "lng": -60.01280213038918,
+    "lat": -34.900452323270784
   },
+  "licitation": 115,
+  "amount": 1400000,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1883,9 +2225,11 @@
   "id": 60956600,
   "establishment": "Escuela Primaria Nº7 Juana Manso",
   "geo": {
-    "lat": -60.01296628351531,
-    "lng": -34.89650019995991
+    "lng": -60.01296628351531,
+    "lat": -34.89650019995991
   },
+  "licitation": 116,
+  "amount": 680000,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1894,9 +2238,11 @@
   "id": 61771100,
   "establishment": "Escuela Secundaria Nº68",
   "geo": {
-    "lat": -58.00036884951106,
-    "lng": -34.93211188051037
+    "lng": -58.00036884951106,
+    "lat": -34.93211188051037
   },
+  "licitation": 5,
+  "amount": 3929187,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1905,9 +2251,11 @@
   "id": 60399300,
   "establishment": "Jardin De Infantes Nº967 Obrador",
   "geo": {
-    "lat": -58.29667615852341,
-    "lng": -34.70898803929523
+    "lng": -58.29667615852341,
+    "lat": -34.70898803929523
   },
+  "licitation": 161,
+  "amount": 894000,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1916,9 +2264,11 @@
   "id": 61032201,
   "establishment": "Anexo I De Escuela Secundaria Nº5",
   "geo": {
-    "lat": -58.58530498002204,
-    "lng": -34.66678809279908
+    "lng": -58.58530498002204,
+    "lat": -34.66678809279908
   },
+  "licitation": 17,
+  "amount": 2053519,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1927,9 +2277,11 @@
   "id": 60567601,
   "establishment": "Extension I De Escuela Secundaria Nº3",
   "geo": {
-    "lat": -58.66287682889353,
-    "lng": -34.62567121827098
+    "lng": -58.66287682889353,
+    "lat": -34.62567121827098
   },
+  "licitation": 122,
+  "amount": 4106218,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1938,9 +2290,11 @@
   "id": 60223400,
   "establishment": "Escuela Primaria Nº7 Domingo Faustino Sarmiento",
   "geo": {
-    "lat": -61.59300667923944,
-    "lng": -35.494908556250145
+    "lng": -61.59300667923944,
+    "lat": -35.494908556250145
   },
+  "licitation": 200,
+  "amount": 1465000,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1949,9 +2303,11 @@
   "id": 60794200,
   "establishment": "Escuela Secundaria Nº1 Julio Argentino Roca",
   "geo": {
-    "lat": -57.79308148650847,
-    "lng": -36.63882919377987
+    "lng": -57.79308148650847,
+    "lat": -36.63882919377987
   },
+  "licitation": 206,
+  "amount": 1313921,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1960,9 +2316,11 @@
   "id": 60610800,
   "establishment": "Escuela Primaria Nº4 Juan Bautista Alberdi",
   "geo": {
-    "lat": -58.28940917818951,
-    "lng": -35.07020450594943
+    "lng": -58.28940917818951,
+    "lat": -35.07020450594943
   },
+  "licitation": 150,
+  "amount": 1057398,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1971,9 +2329,11 @@
   "id": 61088800,
   "establishment": "Jardin De Infantes Nº901",
   "geo": {
-    "lat": -57.32330137747059,
-    "lng": -36.52141943766245
+    "lng": -57.32330137747059,
+    "lat": -36.52141943766245
   },
+  "licitation": 104,
+  "amount": 1914735,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1982,9 +2342,11 @@
   "id": 60400100,
   "establishment": "Escuela Primaria Nº6 Nuestra Señora Del Carmen",
   "geo": {
-    "lat": -62.31974127549754,
-    "lng": -37.50676106531587
+    "lng": -62.31974127549754,
+    "lat": -37.50676106531587
   },
+  "licitation": 179,
+  "amount": 1965350,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1993,9 +2355,11 @@
   "id": 60184400,
   "establishment": "Escuela Primaria Nº41 Jose Hernandez",
   "geo": {
-    "lat": -60.2643825716636,
-    "lng": -33.41797839665714
+    "lng": -60.2643825716636,
+    "lat": -33.41797839665714
   },
+  "licitation": 113,
+  "amount": 1887000,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -2004,9 +2368,11 @@
   "id": 60234400,
   "establishment": "Escuela Primaria Nº7 Primera Junta",
   "geo": {
-    "lat": -57.58836842999579,
-    "lng": -36.71260175717419
+    "lng": -57.58836842999579,
+    "lat": -36.71260175717419
   },
+  "licitation": 103,
+  "amount": 511098,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -2015,9 +2381,11 @@
   "id": 60695500,
   "establishment": "Escuela Primaria Nº8 Martin Miguel De Güemes",
   "geo": {
-    "lat": -58.87812909285255,
-    "lng": -35.174335191158896
+    "lng": -58.87812909285255,
+    "lat": -35.174335191158896
   },
+  "licitation": 132,
+  "amount": 645180,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -2026,9 +2394,11 @@
   "id": 60426000,
   "establishment": "Escuela Agraria Valentin Coria",
   "geo": {
-    "lat": -59.8692498108482,
-    "lng": -34.839855743678775
+    "lng": -59.8692498108482,
+    "lat": -34.839855743678775
   },
+  "licitation": 119,
+  "amount": 810000,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -2037,9 +2407,11 @@
   "id": 62250400,
   "establishment": "Escuela Secundaria Nº3",
   "geo": {
-    "lat": -63.08515743560226,
-    "lng": -36.5715693189463
+    "lng": -63.08515743560226,
+    "lat": -36.5715693189463
   },
+  "licitation": 94,
+  "amount": 458866,
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -2048,9 +2420,11 @@
   "id": 60286800,
   "establishment": "Escuela Primaria Nº19 John F. Kenedy",
   "geo": {
-    "lat": -58.324934936818025,
-    "lng": -37.94020917629543
+    "lng": -58.324934936818025,
+    "lat": -37.94020917629543
   },
+  "licitation": 106,
+  "amount": 7077369,
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
