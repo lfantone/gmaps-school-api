@@ -5,8 +5,15 @@
     "lng": -58.30632395923476,
     "lat": -37.06868237716056
   },
-  "licitation": 105,
-  "amount": 293000,
+  "licitation": {
+    "id": 105,
+    "code": "78/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 293000,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -18,8 +25,15 @@
     "lng": -59.80954586319384,
     "lat": -35.65331795475979
   },
-  "licitation": 123,
-  "amount": 2546085,
+  "licitation": {
+    "id": 123,
+    "code": "36/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 2157699,
+    "hired": 2546085
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -31,8 +45,15 @@
     "lng": -63.28055095023256,
     "lat": -35.38570060212032
   },
-  "licitation": 101,
-  "amount": 634419,
+  "licitation": {
+    "id": 101,
+    "code": "29/16/5"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 551669,
+    "hired": 634419
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -44,8 +65,15 @@
     "lng": -58.464627194480414,
     "lat": -35.19130510432604
   },
-  "licitation": 136,
-  "amount": 1478200,
+  "licitation": {
+    "id": 136,
+    "code": "70/16/5"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1478200,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -57,8 +85,15 @@
     "lng": -63.0530210974798,
     "lat": -37.373132873725396
   },
-  "licitation": 181,
-  "amount": 1073380,
+  "licitation": {
+    "id": 181,
+    "code": "49/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 975000,
+    "hired": 1073380
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -70,8 +105,15 @@
     "lng": -58.54173229733031,
     "lat": -34.962896799760195
   },
-  "licitation": 143,
-  "amount": 3493000,
+  "licitation": {
+    "id": 143,
+    "code": "69/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 3493000,
+    "hired": null
+  },
   "status": {
     "id": 20,
     "name": "Elegibilidad"
@@ -83,8 +125,15 @@
     "lng": -58.99070226322339,
     "lat": -34.880603184465805
   },
-  "licitation": 130,
-  "amount": 971000,
+  "licitation": {
+    "id": 130,
+    "code": "75/16/3"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 971000,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -96,8 +145,15 @@
     "lng": -59.762500129743145,
     "lat": -33.74072102046505
   },
-  "licitation": 126,
-  "amount": 2443762,
+  "licitation": {
+    "id": 126,
+    "code": "37/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 2070715,
+    "hired": 2443762
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -109,8 +165,15 @@
     "lng": -58.99040418518104,
     "lat": -34.88054718754217
   },
-  "licitation": 129,
-  "amount": 647811,
+  "licitation": {
+    "id": 129,
+    "code": "75/16/4"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 647811,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -122,8 +185,15 @@
     "lng": -63.19263754078125,
     "lat": -36.31529053279922
   },
-  "licitation": 100,
-  "amount": 404978,
+  "licitation": {
+    "id": 100,
+    "code": "29/16/4"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 352155,
+    "hired": 404978
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -135,8 +205,15 @@
     "lng": -57.63231704151781,
     "lat": -38.08293837805587
   },
-  "licitation": 59,
-  "amount": 3470572,
+  "licitation": {
+    "id": 59,
+    "code": "31/16/4"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 3017889,
+    "hired": 3470572
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -148,8 +225,15 @@
     "lng": -56.9491236096428,
     "lat": -37.0268582125093
   },
-  "licitation": 98,
-  "amount": 952000,
+  "licitation": {
+    "id": 98,
+    "code": "80/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 952000,
+    "hired": null
+  },
   "status": {
     "id": 20,
     "name": "Elegibilidad"
@@ -161,8 +245,15 @@
     "lng": -59.6861652282535,
     "lat": -34.7694192459873
   },
-  "licitation": 91,
-  "amount": 3915000,
+  "licitation": {
+    "id": 91,
+    "code": "28/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 3915000,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -174,8 +265,15 @@
     "lng": -58.1634825999895,
     "lat": -34.8858497556217
   },
-  "licitation": 151,
-  "amount": 450000,
+  "licitation": {
+    "id": 151,
+    "code": "61/16/4"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 450000,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -187,8 +285,15 @@
     "lng": -59.107978066790984,
     "lat": -37.321606405093156
   },
-  "licitation": 109,
-  "amount": 0,
+  "licitation": {
+    "id": 109,
+    "code": "33/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 110440,
+    "hired": 0
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -200,8 +305,15 @@
     "lng": -58.113924351969104,
     "lat": -34.96209633681994
   },
-  "licitation": 11,
-  "amount": 2324576,
+  "licitation": {
+    "id": 11,
+    "code": "2/16/3"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1970000,
+    "hired": 2324576
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -213,8 +325,15 @@
     "lng": -58.66463156161203,
     "lat": -34.63794122942504
   },
-  "licitation": 53,
-  "amount": 1966000,
+  "licitation": {
+    "id": 53,
+    "code": "20/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1710000,
+    "hired": 1966000
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -226,8 +345,15 @@
     "lng": -58.71171296781621,
     "lat": -34.63052612631417
   },
-  "licitation": 52,
-  "amount": 130550,
+  "licitation": {
+    "id": 52,
+    "code": "20/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 127000,
+    "hired": 130550
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -239,8 +365,15 @@
     "lng": -58.40499423874794,
     "lat": -34.714513051847646
   },
-  "licitation": 45,
-  "amount": 1438814,
+  "licitation": {
+    "id": 45,
+    "code": "5/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1355208,
+    "hired": 1438814
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -252,8 +385,15 @@
     "lng": -57.65115067596553,
     "lat": -38.137439461218996
   },
-  "licitation": 199,
-  "amount": 1799289,
+  "licitation": {
+    "id": 199,
+    "code": "48/16/5"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1862000,
+    "hired": 1799289
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -265,8 +405,15 @@
     "lng": -58.35677487017432,
     "lat": -34.89428958328664
   },
-  "licitation": 141,
-  "amount": 884000,
+  "licitation": {
+    "id": 141,
+    "code": "71/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 884000,
+    "hired": null
+  },
   "status": {
     "id": 20,
     "name": "Elegibilidad"
@@ -278,8 +425,15 @@
     "lng": -57.8409551229184,
     "lat": -38.270845880576985
   },
-  "licitation": 84,
-  "amount": 871875,
+  "licitation": {
+    "id": 84,
+    "code": "81/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 871875,
+    "hired": null
+  },
   "status": {
     "id": 20,
     "name": "Elegibilidad"
@@ -291,8 +445,15 @@
     "lng": -58.70087346010198,
     "lat": -34.61280183763642
   },
-  "licitation": 57,
-  "amount": 3578900,
+  "licitation": {
+    "id": 57,
+    "code": "21/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 3112577,
+    "hired": 3578900
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -304,8 +465,15 @@
     "lng": -58.84174754368216,
     "lat": -34.61144873374589
   },
-  "licitation": 86,
-  "amount": 920000,
+  "licitation": {
+    "id": 86,
+    "code": "26/16/3"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 920000,
+    "hired": null
+  },
   "status": {
     "id": 20,
     "name": "Elegibilidad"
@@ -317,8 +485,15 @@
     "lng": -58.299508598453755,
     "lat": -34.816813919181996
   },
-  "licitation": 28,
-  "amount": 512867,
+  "licitation": {
+    "id": 28,
+    "code": "10/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 449884,
+    "hired": 512867
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -330,8 +505,15 @@
     "lng": -58.50198672246896,
     "lat": -34.86217758962571
   },
-  "licitation": 157,
-  "amount": 2126884,
+  "licitation": {
+    "id": 157,
+    "code": "64/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1802444,
+    "hired": 2126884
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -343,8 +525,15 @@
     "lng": -58.33571430155576,
     "lat": -34.771202693503916
   },
-  "licitation": 35,
-  "amount": 645476,
+  "licitation": {
+    "id": 35,
+    "code": "15/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 547014,
+    "hired": 645476
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -356,8 +545,15 @@
     "lng": -58.33309886506943,
     "lat": -34.77636204154522
   },
-  "licitation": 134,
-  "amount": 8264204,
+  "licitation": {
+    "id": 134,
+    "code": "13/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 8264204,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -369,8 +565,15 @@
     "lng": -57.93746209224363,
     "lat": -34.93207802344273
   },
-  "licitation": 10,
-  "amount": 1504891,
+  "licitation": {
+    "id": 10,
+    "code": "2/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1275332,
+    "hired": 1504891
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -382,8 +585,15 @@
     "lng": -57.561445118244976,
     "lat": -37.948271742119445
   },
-  "licitation": 197,
-  "amount": 1569405,
+  "licitation": {
+    "id": 197,
+    "code": "48/16/3"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1618828,
+    "hired": 1569405
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -395,8 +605,15 @@
     "lng": -56.870646858119706,
     "lat": -37.104794744481154
   },
-  "licitation": 92,
-  "amount": 612000,
+  "licitation": {
+    "id": 92,
+    "code": "79/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 612000,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -408,8 +625,15 @@
     "lng": -57.859243094376886,
     "lat": -38.246135136731276
   },
-  "licitation": 85,
-  "amount": 910000,
+  "licitation": {
+    "id": 85,
+    "code": "81/16/3"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 910000,
+    "hired": null
+  },
   "status": {
     "id": 20,
     "name": "Elegibilidad"
@@ -421,8 +645,15 @@
     "lng": -58.23415916104727,
     "lat": -35.173280230462844
   },
-  "licitation": 204,
-  "amount": 1994200,
+  "licitation": {
+    "id": 204,
+    "code": "57/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1690000,
+    "hired": 1994200
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -434,8 +665,15 @@
     "lng": -58.44990286302454,
     "lat": -34.71057289114591
   },
-  "licitation": 43,
-  "amount": 7017185,
+  "licitation": {
+    "id": 43,
+    "code": "4/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 6101900,
+    "hired": 7017185
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -447,8 +685,15 @@
     "lng": -57.9733397048325,
     "lat": -34.95396926619557
   },
-  "licitation": 187,
-  "amount": 1244000,
+  "licitation": {
+    "id": 187,
+    "code": "51/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1244000,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -460,8 +705,15 @@
     "lng": -58.048341560673414,
     "lat": -34.92853014215163
   },
-  "licitation": 189,
-  "amount": 6956092,
+  "licitation": {
+    "id": 189,
+    "code": "52/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 5895000,
+    "hired": 6956092
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -473,8 +725,15 @@
     "lng": -62.247161063855934,
     "lat": -38.76582120871974
   },
-  "licitation": 110,
-  "amount": 519662,
+  "licitation": {
+    "id": 110,
+    "code": "34/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 519662,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -486,8 +745,15 @@
     "lng": -62.97152314389628,
     "lat": -35.48968199595701
   },
-  "licitation": 207,
-  "amount": 0,
+  "licitation": {
+    "id": 207,
+    "code": "29/16/6"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 399214,
+    "hired": 0
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -499,8 +765,15 @@
     "lng": -57.85180517891511,
     "lat": -38.236064394070524
   },
-  "licitation": 80,
-  "amount": 1607200,
+  "licitation": {
+    "id": 80,
+    "code": "81/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1607200,
+    "hired": null
+  },
   "status": {
     "id": 20,
     "name": "Elegibilidad"
@@ -512,8 +785,15 @@
     "lng": -58.234042664924225,
     "lat": -35.169586755160566
   },
-  "licitation": 203,
-  "amount": 1846700,
+  "licitation": {
+    "id": 203,
+    "code": "57/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1565000,
+    "hired": 1846700
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -525,8 +805,15 @@
     "lng": -58.68211932156557,
     "lat": -34.670237113760955
   },
-  "licitation": 54,
-  "amount": 4120650,
+  "licitation": {
+    "id": 54,
+    "code": "20/16/3"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 3586213,
+    "hired": 4120650
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -538,8 +825,15 @@
     "lng": -58.5279827332954,
     "lat": -34.87396771155023
   },
-  "licitation": 34,
-  "amount": 3444786,
+  "licitation": {
+    "id": 34,
+    "code": "15/16/4"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 2919311,
+    "hired": 3444786
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -551,8 +845,15 @@
     "lng": -57.90664254111189,
     "lat": -34.86491982809436
   },
-  "licitation": 177,
-  "amount": 645775,
+  "licitation": {
+    "id": 177,
+    "code": "56/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 645775,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -564,8 +865,15 @@
     "lng": -58.43211501914074,
     "lat": -34.67730977887765
   },
-  "licitation": 47,
-  "amount": 716547,
+  "licitation": {
+    "id": 47,
+    "code": "5/16/4"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 674114,
+    "hired": 716547
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -577,8 +885,15 @@
     "lng": -58.534903458135744,
     "lat": -34.52738090871305
   },
-  "licitation": 72,
-  "amount": 4146300,
+  "licitation": {
+    "id": 72,
+    "code": "86/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 4146300,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -590,8 +905,15 @@
     "lng": -58.62688525511161,
     "lat": -34.63789264591593
   },
-  "licitation": 69,
-  "amount": 6924158,
+  "licitation": {
+    "id": 69,
+    "code": "25/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 6615874,
+    "hired": 6924158
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -603,8 +925,15 @@
     "lng": -58.30362706502716,
     "lat": -34.72317107872676
   },
-  "licitation": 163,
-  "amount": 721420,
+  "licitation": {
+    "id": 163,
+    "code": "68/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 721420,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -616,8 +945,15 @@
     "lng": -58.73323540734434,
     "lat": -34.61095848909632
   },
-  "licitation": 148,
-  "amount": 947511,
+  "licitation": {
+    "id": 148,
+    "code": "74/16/4"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 947511,
+    "hired": null
+  },
   "status": {
     "id": 20,
     "name": "Elegibilidad"
@@ -629,8 +965,15 @@
     "lng": -58.729244992716275,
     "lat": -34.66717260484477
   },
-  "licitation": 77,
-  "amount": 1035000,
+  "licitation": {
+    "id": 77,
+    "code": "23/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 900000,
+    "hired": 1035000
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -642,8 +985,15 @@
     "lng": -58.532970414342685,
     "lat": -34.65204175416753
   },
-  "licitation": 155,
-  "amount": 3335000,
+  "licitation": {
+    "id": 155,
+    "code": "59/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 2900000,
+    "hired": 3335000
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -655,8 +1005,15 @@
     "lng": -58.556895881502584,
     "lat": -34.65255272776464
   },
-  "licitation": 23,
-  "amount": 1509728,
+  "licitation": {
+    "id": 23,
+    "code": "7/16/4"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1312807,
+    "hired": 1509728
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -668,8 +1025,15 @@
     "lng": -58.54096492646291,
     "lat": -34.67715967471345
   },
-  "licitation": 22,
-  "amount": 822092,
+  "licitation": {
+    "id": 22,
+    "code": "7/16/3"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 714863,
+    "hired": 822092
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -681,8 +1045,15 @@
     "lng": -58.37850229120249,
     "lat": -34.75536598748144
   },
-  "licitation": 176,
-  "amount": 850491,
+  "licitation": {
+    "id": 176,
+    "code": "58/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 850491,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -694,8 +1065,15 @@
     "lng": -58.21951184048981,
     "lat": -34.832345461953715
   },
-  "licitation": 29,
-  "amount": 186635,
+  "licitation": {
+    "id": 29,
+    "code": "11/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 163000,
+    "hired": 186635
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -707,8 +1085,15 @@
     "lng": -58.35879943421162,
     "lat": -34.78071693709154
   },
-  "licitation": 135,
-  "amount": 8109076,
+  "licitation": {
+    "id": 135,
+    "code": "14/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 8109076,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -720,8 +1105,15 @@
     "lng": -56.702887993698006,
     "lat": -36.48851590023844
   },
-  "licitation": 202,
-  "amount": 6958500,
+  "licitation": {
+    "id": 202,
+    "code": "89/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 6958500,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -733,8 +1125,15 @@
     "lng": -58.201503014031964,
     "lat": -34.77730779354215
   },
-  "licitation": 170,
-  "amount": 634350,
+  "licitation": {
+    "id": 170,
+    "code": "60/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 520000,
+    "hired": 634350
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -746,8 +1145,15 @@
     "lng": -58.20294001005995,
     "lat": -34.81084018274695
   },
-  "licitation": 165,
-  "amount": 2630000,
+  "licitation": {
+    "id": 165,
+    "code": "62/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 2630000,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -759,8 +1165,15 @@
     "lng": -58.30585555782906,
     "lat": -34.70897632314959
   },
-  "licitation": 158,
-  "amount": 784700,
+  "licitation": {
+    "id": 158,
+    "code": "68/16/4"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 784700,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -772,8 +1185,15 @@
     "lng": -58.76075808095129,
     "lat": -34.62104469166846
   },
-  "licitation": 81,
-  "amount": 1330000,
+  "licitation": {
+    "id": 81,
+    "code": "26/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1330000,
+    "hired": null
+  },
   "status": {
     "id": 20,
     "name": "Elegibilidad"
@@ -785,8 +1205,15 @@
     "lng": -58.78718252385998,
     "lat": -34.6542521828414
   },
-  "licitation": 128,
-  "amount": 1744226,
+  "licitation": {
+    "id": 128,
+    "code": "74/16/3"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1744226,
+    "hired": null
+  },
   "status": {
     "id": 20,
     "name": "Elegibilidad"
@@ -798,8 +1225,15 @@
     "lng": -58.58551589011181,
     "lat": -34.66639834777179
   },
-  "licitation": 16,
-  "amount": 577300,
+  "licitation": {
+    "id": 16,
+    "code": "6/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 502000,
+    "hired": 577300
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -811,8 +1245,15 @@
     "lng": -63.17345096231074,
     "lat": -36.2726878318259
   },
-  "licitation": 97,
-  "amount": 1668014,
+  "licitation": {
+    "id": 97,
+    "code": "29/16/3"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1450447,
+    "hired": 1668014
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -824,8 +1265,15 @@
     "lng": -62.077741006915105,
     "lat": -38.88722777588713
   },
-  "licitation": 121,
-  "amount": 657226,
+  "licitation": {
+    "id": 121,
+    "code": "34/16/5"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 657226,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -837,8 +1285,15 @@
     "lng": -58.44328012014732,
     "lat": -35.00501393609566
   },
-  "licitation": 146,
-  "amount": 468477,
+  "licitation": {
+    "id": 146,
+    "code": "70/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 468477,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -850,8 +1305,15 @@
     "lng": -58.4217042381372,
     "lat": -35.02272728976728
   },
-  "licitation": 144,
-  "amount": 602500,
+  "licitation": {
+    "id": 144,
+    "code": "70/16/3"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 602500,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -863,8 +1325,15 @@
     "lng": -61.93523791444253,
     "lat": -37.45617789990874
   },
-  "licitation": 74,
-  "amount": 1588987,
+  "licitation": {
+    "id": 74,
+    "code": "67/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1588987,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -876,8 +1345,15 @@
     "lng": -58.69473165350323,
     "lat": -34.660367931409006
   },
-  "licitation": 75,
-  "amount": 4420889,
+  "licitation": {
+    "id": 75,
+    "code": "22/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 4420889,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -889,8 +1365,15 @@
     "lng": -58.196019242381205,
     "lat": -34.824007499013064
   },
-  "licitation": 30,
-  "amount": 1790310,
+  "licitation": {
+    "id": 30,
+    "code": "10/16/3"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1570448,
+    "hired": 1790310
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -902,8 +1385,15 @@
     "lng": -62.62124663273211,
     "lat": -39.91893841800108
   },
-  "licitation": 201,
-  "amount": 3289300,
+  "licitation": {
+    "id": 201,
+    "code": "88/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 3289300,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -915,8 +1405,15 @@
     "lng": -60.78814318075376,
     "lat": -37.54802959995441
   },
-  "licitation": 71,
-  "amount": 678300,
+  "licitation": {
+    "id": 71,
+    "code": "83/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 620000,
+    "hired": 678300
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -928,8 +1425,15 @@
     "lng": -56.85949132452639,
     "lat": -37.11190980890026
   },
-  "licitation": 99,
-  "amount": 284100,
+  "licitation": {
+    "id": 99,
+    "code": "79/16/4"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 284100,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -941,8 +1445,15 @@
     "lng": -57.842176163355404,
     "lat": -38.25640174952295
   },
-  "licitation": 82,
-  "amount": 1188970,
+  "licitation": {
+    "id": 82,
+    "code": "82/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1188970,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -954,8 +1465,15 @@
     "lng": -58.183587100612755,
     "lat": -34.805685831373545
   },
-  "licitation": 164,
-  "amount": 5091231,
+  "licitation": {
+    "id": 164,
+    "code": "62/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 5091231,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -967,8 +1485,15 @@
     "lng": -58.542208088039864,
     "lat": -34.62379706716568
   },
-  "licitation": 137,
-  "amount": 962000,
+  "licitation": {
+    "id": 137,
+    "code": "73/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 962000,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -980,8 +1505,15 @@
     "lng": -57.91782239421892,
     "lat": -34.86399763102667
   },
-  "licitation": 12,
-  "amount": 1395000,
+  "licitation": {
+    "id": 12,
+    "code": "3/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1202398,
+    "hired": 1395000
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -993,8 +1525,15 @@
     "lng": -58.48318503531216,
     "lat": -34.52306495573813
   },
-  "licitation": 48,
-  "amount": 440737,
+  "licitation": {
+    "id": 48,
+    "code": "17/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 373506,
+    "hired": 440737
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1006,8 +1545,15 @@
     "lng": -58.59195315548206,
     "lat": -34.71057740720635
   },
-  "licitation": 20,
-  "amount": 1786483,
+  "licitation": {
+    "id": 20,
+    "code": "7/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1553464,
+    "hired": 1786483
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1019,8 +1565,15 @@
     "lng": -58.55763817237648,
     "lat": -34.69593352373651
   },
-  "licitation": 153,
-  "amount": 5065750,
+  "licitation": {
+    "id": 153,
+    "code": "59/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 4405000,
+    "hired": 5065750
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1032,8 +1585,15 @@
     "lng": -58.479549878466635,
     "lat": -34.76750715926417
   },
-  "licitation": 38,
-  "amount": 3022375,
+  "licitation": {
+    "id": 38,
+    "code": "16/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 2561334,
+    "hired": 3022375
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1045,8 +1605,15 @@
     "lng": -58.058203598990794,
     "lat": -34.88709074103794
   },
-  "licitation": 190,
-  "amount": 6626878,
+  "licitation": {
+    "id": 190,
+    "code": "53/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 5616000,
+    "hired": 6626878
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1058,8 +1625,15 @@
     "lng": -58.219975220758734,
     "lat": -34.74253803031519
   },
-  "licitation": 60,
-  "amount": 2486275,
+  "licitation": {
+    "id": 60,
+    "code": "12/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 2107013,
+    "hired": 2486275
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1071,8 +1645,15 @@
     "lng": -58.8618600093176,
     "lat": -34.62305533564724
   },
-  "licitation": 156,
-  "amount": 748999,
+  "licitation": {
+    "id": 156,
+    "code": "74/16/6"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 748999,
+    "hired": null
+  },
   "status": {
     "id": 20,
     "name": "Elegibilidad"
@@ -1084,8 +1665,15 @@
     "lng": -58.491688511394855,
     "lat": -34.68988973458291
   },
-  "licitation": 15,
-  "amount": 2990000,
+  "licitation": {
+    "id": 15,
+    "code": "6/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 2600000,
+    "hired": 2990000
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1097,8 +1685,15 @@
     "lng": -58.05234696908218,
     "lat": -34.954567410349085
   },
-  "licitation": 186,
-  "amount": 605339,
+  "licitation": {
+    "id": 186,
+    "code": "50/16/5"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 513000,
+    "hired": 605339
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1110,8 +1705,15 @@
     "lng": -62.22115542288262,
     "lat": -34.94764647289005
   },
-  "licitation": 114,
-  "amount": 645000,
+  "licitation": {
+    "id": 114,
+    "code": "77/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 645000,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1123,8 +1725,15 @@
     "lng": -58.440525810645816,
     "lat": -34.753530937055004
   },
-  "licitation": 175,
-  "amount": 450774,
+  "licitation": {
+    "id": 175,
+    "code": "58/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 450774,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1136,8 +1745,15 @@
     "lng": -57.58640804161351,
     "lat": -37.979070603179665
   },
-  "licitation": 196,
-  "amount": 1479408,
+  "licitation": {
+    "id": 196,
+    "code": "48/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1243200,
+    "hired": 1479408
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1149,8 +1765,15 @@
     "lng": -58.64944166098348,
     "lat": -34.61233130783102
   },
-  "licitation": 51,
-  "amount": 2459887,
+  "licitation": {
+    "id": 51,
+    "code": "19/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 2459887,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1162,8 +1785,15 @@
     "lng": -58.649618029998194,
     "lat": -34.59066267810032
   },
-  "licitation": 50,
-  "amount": 195533,
+  "licitation": {
+    "id": 50,
+    "code": "19/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 195533,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1175,8 +1805,15 @@
     "lng": -58.75131080974425,
     "lat": -34.522801246021935
   },
-  "licitation": 89,
-  "amount": 648333,
+  "licitation": {
+    "id": 89,
+    "code": "26/16/5"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 648333,
+    "hired": null
+  },
   "status": {
     "id": 20,
     "name": "Elegibilidad"
@@ -1188,8 +1825,15 @@
     "lng": -58.806320146316985,
     "lat": -34.49973303443099
   },
-  "licitation": 88,
-  "amount": 1275000,
+  "licitation": {
+    "id": 88,
+    "code": "26/16/4"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1275000,
+    "hired": null
+  },
   "status": {
     "id": 20,
     "name": "Elegibilidad"
@@ -1201,8 +1845,15 @@
     "lng": -62.966511091372915,
     "lat": -36.751974437570624
   },
-  "licitation": 95,
-  "amount": 576423,
+  "licitation": {
+    "id": 95,
+    "code": "29/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 501238,
+    "hired": 576423
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1214,8 +1865,15 @@
     "lng": -62.260016837577325,
     "lat": -38.716593224767344
   },
-  "licitation": 111,
-  "amount": 449667,
+  "licitation": {
+    "id": 111,
+    "code": "34/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 449667,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1227,8 +1885,15 @@
     "lng": -58.37173518145488,
     "lat": -34.7503534905999
   },
-  "licitation": 13,
-  "amount": 1336724,
+  "licitation": {
+    "id": 13,
+    "code": "4/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1162369,
+    "hired": 1336724
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1240,8 +1905,15 @@
     "lng": -58.29684252751696,
     "lat": -34.81269352845075
   },
-  "licitation": 25,
-  "amount": 5941670,
+  "licitation": {
+    "id": 25,
+    "code": "10/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 4993000,
+    "hired": 5941670
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1253,8 +1925,15 @@
     "lng": -58.412880709095234,
     "lat": -34.742759200383205
   },
-  "licitation": 174,
-  "amount": 1057900,
+  "licitation": {
+    "id": 174,
+    "code": "58/16/3"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1057900,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1266,8 +1945,15 @@
     "lng": -57.59531609799546,
     "lat": -37.887343915517356
   },
-  "licitation": 62,
-  "amount": 1881400,
+  "licitation": {
+    "id": 62,
+    "code": "31/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1636000,
+    "hired": 1881400
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1279,8 +1965,15 @@
     "lng": -57.84405182350472,
     "lat": -38.27170343866178
   },
-  "licitation": 76,
-  "amount": 4147975,
+  "licitation": {
+    "id": 76,
+    "code": "82/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 4147975,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1292,8 +1985,15 @@
     "lng": -58.412195380501956,
     "lat": -35.03222816177446
   },
-  "licitation": 142,
-  "amount": 960200,
+  "licitation": {
+    "id": 142,
+    "code": "70/16/4"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 960200,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1305,8 +2005,15 @@
     "lng": -62.21864134426705,
     "lat": -38.73016622064275
   },
-  "licitation": 118,
-  "amount": 847225,
+  "licitation": {
+    "id": 118,
+    "code": "34/16/4"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 847225,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1318,8 +2025,15 @@
     "lng": -57.88349332540215,
     "lat": -34.93980356250368
   },
-  "licitation": 188,
-  "amount": 1360000,
+  "licitation": {
+    "id": 188,
+    "code": "51/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1360000,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1331,8 +2045,15 @@
     "lng": -58.456686714449035,
     "lat": -34.80674591873836
   },
-  "licitation": 36,
-  "amount": 3363485,
+  "licitation": {
+    "id": 36,
+    "code": "16/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 2850411,
+    "hired": 3363485
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1344,8 +2065,15 @@
     "lng": -58.428879067472806,
     "lat": -34.73930244650201
   },
-  "licitation": 173,
-  "amount": 574921,
+  "licitation": {
+    "id": 173,
+    "code": "58/16/4"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 574921,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1357,8 +2085,15 @@
     "lng": -58.79294362763425,
     "lat": -34.624897946781964
   },
-  "licitation": 152,
-  "amount": 968775,
+  "licitation": {
+    "id": 152,
+    "code": "74/16/5"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 968775,
+    "hired": null
+  },
   "status": {
     "id": 20,
     "name": "Elegibilidad"
@@ -1370,8 +2105,15 @@
     "lng": -58.844327663830335,
     "lat": -34.63935829251592
   },
-  "licitation": 83,
-  "amount": 1100324,
+  "licitation": {
+    "id": 83,
+    "code": "26/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1100324,
+    "hired": null
+  },
   "status": {
     "id": 20,
     "name": "Elegibilidad"
@@ -1383,8 +2125,15 @@
     "lng": -58.219773550940516,
     "lat": -34.78115438718736
   },
-  "licitation": 147,
-  "amount": 670000,
+  "licitation": {
+    "id": 147,
+    "code": "61/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 670000,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1396,8 +2145,15 @@
     "lng": -58.236427031047675,
     "lat": -35.16860604097105
   },
-  "licitation": 205,
-  "amount": 1982400,
+  "licitation": {
+    "id": 205,
+    "code": "57/16/3"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1680000,
+    "hired": 1982400
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1409,8 +2165,15 @@
     "lng": -58.652336178485164,
     "lat": -34.57555200843548
   },
-  "licitation": 139,
-  "amount": 2775000,
+  "licitation": {
+    "id": 139,
+    "code": "73/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 2775000,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1422,8 +2185,15 @@
     "lng": -57.93753708056681,
     "lat": -34.93214238029954
   },
-  "licitation": 195,
-  "amount": 1122179,
+  "licitation": {
+    "id": 195,
+    "code": "55/16/5"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 951000,
+    "hired": 1122179
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1435,8 +2205,15 @@
     "lng": -57.99829186227722,
     "lat": -34.88851358661117
   },
-  "licitation": 192,
-  "amount": 1882077,
+  "licitation": {
+    "id": 192,
+    "code": "55/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1595000,
+    "hired": 1882077
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1448,8 +2225,15 @@
     "lng": -58.46267141178563,
     "lat": -34.80803492685793
   },
-  "licitation": 73,
-  "amount": 4383128,
+  "licitation": {
+    "id": 73,
+    "code": "66/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 4383128,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1461,8 +2245,15 @@
     "lng": -58.29324173034192,
     "lat": -34.782117302165545
   },
-  "licitation": 27,
-  "amount": 5427540,
+  "licitation": {
+    "id": 27,
+    "code": "11/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 4761000,
+    "hired": 5427540
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1474,8 +2265,15 @@
     "lng": -58.26530602539583,
     "lat": -34.802577336286255
   },
-  "licitation": 26,
-  "amount": 8070518,
+  "licitation": {
+    "id": 26,
+    "code": "9/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 7018825,
+    "hired": 8070518
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1487,8 +2285,15 @@
     "lng": -58.50555928865833,
     "lat": -34.4824948763609
   },
-  "licitation": 39,
-  "amount": 530607,
+  "licitation": {
+    "id": 39,
+    "code": "17/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 449667,
+    "hired": 530607
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1500,8 +2305,15 @@
     "lng": -58.24345128514226,
     "lat": -34.749860084210304
   },
-  "licitation": 162,
-  "amount": 2154700,
+  "licitation": {
+    "id": 162,
+    "code": "68/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 2154700,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1513,8 +2325,15 @@
     "lng": -58.51809291153426,
     "lat": -34.52512513846855
   },
-  "licitation": 49,
-  "amount": 2406020,
+  "licitation": {
+    "id": 49,
+    "code": "17/16/3"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 2039000,
+    "hired": 2406020
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1526,8 +2345,15 @@
     "lng": -58.19806192881783,
     "lat": -34.77089196539154
   },
-  "licitation": 149,
-  "amount": 645900,
+  "licitation": {
+    "id": 149,
+    "code": "61/16/3"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 645900,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1539,8 +2365,15 @@
     "lng": -56.86534811836097,
     "lat": -37.1111469525727
   },
-  "licitation": 93,
-  "amount": 348000,
+  "licitation": {
+    "id": 93,
+    "code": "79/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 348000,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1552,8 +2385,15 @@
     "lng": -57.83964682274585,
     "lat": -38.11963168476846
   },
-  "licitation": 87,
-  "amount": 693765,
+  "licitation": {
+    "id": 87,
+    "code": "81/16/4"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 693765,
+    "hired": null
+  },
   "status": {
     "id": 20,
     "name": "Elegibilidad"
@@ -1565,8 +2405,15 @@
     "lng": -57.59140460957131,
     "lat": -38.0317595016051
   },
-  "licitation": 198,
-  "amount": 1580938,
+  "licitation": {
+    "id": 198,
+    "code": "48/16/4"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1328520,
+    "hired": 1580938
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1578,8 +2425,15 @@
     "lng": -58.59760161044317,
     "lat": -34.71924126698435
   },
-  "licitation": 18,
-  "amount": 1135639,
+  "licitation": {
+    "id": 18,
+    "code": "6/16/4"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 987513,
+    "hired": 1135639
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1591,8 +2445,15 @@
     "lng": -58.82404844218394,
     "lat": -34.675817704128065
   },
-  "licitation": 120,
-  "amount": 1574213,
+  "licitation": {
+    "id": 120,
+    "code": "74/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1574213,
+    "hired": null
+  },
   "status": {
     "id": 20,
     "name": "Elegibilidad"
@@ -1604,8 +2465,15 @@
     "lng": -58.26253795024634,
     "lat": -34.713021519171825
   },
-  "licitation": 58,
-  "amount": 2604850,
+  "licitation": {
+    "id": 58,
+    "code": "12/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 2207500,
+    "hired": 2604850
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1617,8 +2485,15 @@
     "lng": -58.29285750488519,
     "lat": -34.70193486529141
   },
-  "licitation": 65,
-  "amount": 649261,
+  "licitation": {
+    "id": 65,
+    "code": "12/16/5"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 550221,
+    "hired": 649261
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1630,8 +2505,15 @@
     "lng": -58.18764634922069,
     "lat": -34.76703148983689
   },
-  "licitation": 169,
-  "amount": 646587,
+  "licitation": {
+    "id": 169,
+    "code": "60/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 530000,
+    "hired": 646587
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1643,8 +2525,15 @@
     "lng": -57.54677898735754,
     "lat": -37.99690671838829
   },
-  "licitation": 66,
-  "amount": 490186,
+  "licitation": {
+    "id": 66,
+    "code": "31/16/3"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 426250,
+    "hired": 490186
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1656,8 +2545,15 @@
     "lng": -57.58812827542415,
     "lat": -37.97379903124625
   },
-  "licitation": 70,
-  "amount": 1463100,
+  "licitation": {
+    "id": 70,
+    "code": "48/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1230000,
+    "hired": 1463100
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1669,8 +2565,15 @@
     "lng": -58.327598959235935,
     "lat": -34.78639194681201
   },
-  "licitation": 31,
-  "amount": 1123756,
+  "licitation": {
+    "id": 31,
+    "code": "15/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 952336,
+    "hired": 1123756
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1682,8 +2585,15 @@
     "lng": -58.0159149955544,
     "lat": -34.920527885860935
   },
-  "licitation": 194,
-  "amount": 513289,
+  "licitation": {
+    "id": 194,
+    "code": "55/16/4"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 435000,
+    "hired": 513289
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1695,8 +2605,15 @@
     "lng": -58.046021857232375,
     "lat": -34.9049869015693
   },
-  "licitation": 183,
-  "amount": 1171739,
+  "licitation": {
+    "id": 183,
+    "code": "50/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 993000,
+    "hired": 1171739
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1708,8 +2625,15 @@
     "lng": -58.269441137043366,
     "lat": -34.78101990136605
   },
-  "licitation": 33,
-  "amount": 631011,
+  "licitation": {
+    "id": 33,
+    "code": "10/16/4"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 549661,
+    "hired": 631011
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1721,8 +2645,15 @@
     "lng": -58.47525705421597,
     "lat": -34.749783531567644
   },
-  "licitation": 171,
-  "amount": 465000,
+  "licitation": {
+    "id": 171,
+    "code": "58/16/6"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 465000,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1734,8 +2665,15 @@
     "lng": -58.60910371626404,
     "lat": -34.72914675177515
   },
-  "licitation": 24,
-  "amount": 520432,
+  "licitation": {
+    "id": 24,
+    "code": "7/16/5"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 452550,
+    "hired": 520432
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1747,8 +2685,15 @@
     "lng": -58.586044832659574,
     "lat": -34.646974650002555
   },
-  "licitation": 79,
-  "amount": 4894723,
+  "licitation": {
+    "id": 79,
+    "code": "24/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 5147333,
+    "hired": 4894723
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1760,8 +2705,15 @@
     "lng": -58.58856418507685,
     "lat": -34.4699870812418
   },
-  "licitation": 133,
-  "amount": 1574900,
+  "licitation": {
+    "id": 133,
+    "code": "72/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1574900,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1773,8 +2725,15 @@
     "lng": -58.355040852955646,
     "lat": -34.72172945452012
   },
-  "licitation": 44,
-  "amount": 785818,
+  "licitation": {
+    "id": 44,
+    "code": "5/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 750224,
+    "hired": 785818
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1786,8 +2745,15 @@
     "lng": -58.20315168756698,
     "lat": -34.810990379037676
   },
-  "licitation": 168,
-  "amount": 1290516,
+  "licitation": {
+    "id": 168,
+    "code": "60/16/3"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1057800,
+    "hired": 1290516
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1799,8 +2765,15 @@
     "lng": -56.868866993143335,
     "lat": -37.1127928962872
   },
-  "licitation": 96,
-  "amount": 215000,
+  "licitation": {
+    "id": 96,
+    "code": "79/16/3"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 215000,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1812,8 +2785,15 @@
     "lng": -56.901272558462,
     "lat": -37.13871680463863
   },
-  "licitation": 102,
-  "amount": 275000,
+  "licitation": {
+    "id": 102,
+    "code": "79/16/5"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 275000,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1825,8 +2805,15 @@
     "lng": -59.67174717816386,
     "lat": -33.67540337121208
   },
-  "licitation": 124,
-  "amount": 1404436,
+  "licitation": {
+    "id": 124,
+    "code": "37/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1190200,
+    "hired": 1404436
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1838,8 +2825,15 @@
     "lng": -60.18499177610398,
     "lat": -33.3978846961668
   },
-  "licitation": 108,
-  "amount": 3945200,
+  "licitation": {
+    "id": 108,
+    "code": "76/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 3945200,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1851,8 +2845,15 @@
     "lng": -58.817107254913715,
     "lat": -34.672919178608225
   },
-  "licitation": 125,
-  "amount": 1698411,
+  "licitation": {
+    "id": 125,
+    "code": "74/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1698411,
+    "hired": null
+  },
   "status": {
     "id": 20,
     "name": "Elegibilidad"
@@ -1864,8 +2865,15 @@
     "lng": -58.400217691938195,
     "lat": -34.72874053060357
   },
-  "licitation": 46,
-  "amount": 875477,
+  "licitation": {
+    "id": 46,
+    "code": "5/16/3"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 824557,
+    "hired": 875477
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1877,8 +2885,15 @@
     "lng": -58.705907088387995,
     "lat": -34.64599376857843
   },
-  "licitation": 55,
-  "amount": 3780200,
+  "licitation": {
+    "id": 55,
+    "code": "21/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 3287544,
+    "hired": 3780200
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1890,8 +2905,15 @@
     "lng": -58.760178513953605,
     "lat": -35.05937711034194
   },
-  "licitation": 131,
-  "amount": 682411,
+  "licitation": {
+    "id": 131,
+    "code": "75/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 682411,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1903,8 +2925,15 @@
     "lng": -57.611571180391614,
     "lat": -37.95238602571278
   },
-  "licitation": 63,
-  "amount": 632114,
+  "licitation": {
+    "id": 63,
+    "code": "31/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 549663,
+    "hired": 632114
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1916,8 +2945,15 @@
     "lng": -57.96341604555528,
     "lat": -34.893067749134275
   },
-  "licitation": 182,
-  "amount": 560498,
+  "licitation": {
+    "id": 182,
+    "code": "50/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 475000,
+    "hired": 560498
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1929,8 +2965,15 @@
     "lng": -57.956903048984614,
     "lat": -34.92229728313151
   },
-  "licitation": 41,
-  "amount": 15525000,
+  "licitation": {
+    "id": 41,
+    "code": "1/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 13500000,
+    "hired": 15525000
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1942,8 +2985,15 @@
     "lng": -58.04525745846962,
     "lat": -34.9498515945651
   },
-  "licitation": 185,
-  "amount": 377584,
+  "licitation": {
+    "id": 185,
+    "code": "50/16/4"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 320000,
+    "hired": 377584
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1955,8 +3005,15 @@
     "lng": -61.10925718721806,
     "lat": -33.89444313077361
   },
-  "licitation": 112,
-  "amount": 650000,
+  "licitation": {
+    "id": 112,
+    "code": "77/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 650000,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1968,8 +3025,15 @@
     "lng": -60.1041179164188,
     "lat": -34.06400028453991
   },
-  "licitation": 127,
-  "amount": 1232453,
+  "licitation": {
+    "id": 127,
+    "code": "37/16/3"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1044452,
+    "hired": 1232453
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -1981,8 +3045,15 @@
     "lng": -58.18989051862969,
     "lat": -34.828179959635364
   },
-  "licitation": 145,
-  "amount": 514000,
+  "licitation": {
+    "id": 145,
+    "code": "61/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 514000,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -1994,8 +3065,15 @@
     "lng": -57.904281640472234,
     "lat": -34.92396429870013
   },
-  "licitation": 14,
-  "amount": 981869,
+  "licitation": {
+    "id": 14,
+    "code": "3/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 834775,
+    "hired": 981869
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -2007,8 +3085,15 @@
     "lng": -58.66164138914019,
     "lat": -34.683268270759434
   },
-  "licitation": 78,
-  "amount": 887485,
+  "licitation": {
+    "id": 78,
+    "code": "24/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1189337,
+    "hired": 887485
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -2020,8 +3105,15 @@
     "lng": -59.79313635181121,
     "lat": -38.357174450049804
   },
-  "licitation": 107,
-  "amount": 0,
+  "licitation": {
+    "id": 107,
+    "code": "33/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 4947066,
+    "hired": 0
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -2033,8 +3125,15 @@
     "lng": -62.286064699456084,
     "lat": -38.71822787660397
   },
-  "licitation": 117,
-  "amount": 725366,
+  "licitation": {
+    "id": 117,
+    "code": "34/16/3"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 725366,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -2046,8 +3145,15 @@
     "lng": -58.76649571615572,
     "lat": -34.504410443325206
   },
-  "licitation": 90,
-  "amount": 10938844,
+  "licitation": {
+    "id": 90,
+    "code": "27/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 10938844,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -2059,8 +3165,15 @@
     "lng": -58.199014258462356,
     "lat": -34.77061686401052
   },
-  "licitation": 21,
-  "amount": 398560,
+  "licitation": {
+    "id": 21,
+    "code": "8/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 348996,
+    "hired": 398560
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -2072,8 +3185,15 @@
     "lng": -58.179541399261424,
     "lat": -34.88003245122216
   },
-  "licitation": 154,
-  "amount": 4713074,
+  "licitation": {
+    "id": 154,
+    "code": "65/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 4713074,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -2085,8 +3205,15 @@
     "lng": -58.17912853256096,
     "lat": -34.879694008803185
   },
-  "licitation": 167,
-  "amount": 435539,
+  "licitation": {
+    "id": 167,
+    "code": "60/16/4"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 357000,
+    "hired": 435539
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -2098,8 +3225,15 @@
     "lng": -58.27021126673622,
     "lat": -34.74339425313061
   },
-  "licitation": 64,
-  "amount": 857164,
+  "licitation": {
+    "id": 64,
+    "code": "12/16/4"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 726410,
+    "hired": 857164
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -2111,8 +3245,15 @@
     "lng": -58.32228620251714,
     "lat": -34.724185098537056
   },
-  "licitation": 61,
-  "amount": 972336,
+  "licitation": {
+    "id": 61,
+    "code": "12/16/3"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 824014,
+    "hired": 972336
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -2124,8 +3265,15 @@
     "lng": -58.47185780210564,
     "lat": -34.742582544642744
   },
-  "licitation": 172,
-  "amount": 684992,
+  "licitation": {
+    "id": 172,
+    "code": "58/16/5"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 684992,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -2137,8 +3285,15 @@
     "lng": -58.06003018010498,
     "lat": -34.97705791410189
   },
-  "licitation": 191,
-  "amount": 2173558,
+  "licitation": {
+    "id": 191,
+    "code": "55/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1842000,
+    "hired": 2173558
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -2150,8 +3305,15 @@
     "lng": -57.9379947965094,
     "lat": -34.91317219995734
   },
-  "licitation": 178,
-  "amount": 5995577,
+  "licitation": {
+    "id": 178,
+    "code": "54/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 5081000,
+    "hired": 5995577
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -2163,8 +3325,15 @@
     "lng": -57.94688332576793,
     "lat": -34.92657063582569
   },
-  "licitation": 184,
-  "amount": 3020799,
+  "licitation": {
+    "id": 184,
+    "code": "50/16/3"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 2560000,
+    "hired": 3020799
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -2176,8 +3345,15 @@
     "lng": -57.94562919644245,
     "lat": -34.91189591550994
   },
-  "licitation": 193,
-  "amount": 650177,
+  "licitation": {
+    "id": 193,
+    "code": "55/16/3"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 551000,
+    "hired": 650177
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -2189,8 +3365,15 @@
     "lng": -58.5203541085637,
     "lat": -34.846730310022586
   },
-  "licitation": 32,
-  "amount": 850780,
+  "licitation": {
+    "id": 32,
+    "code": "15/16/3"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 721000,
+    "hired": 850780
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -2202,8 +3385,15 @@
     "lng": -58.56497751870757,
     "lat": -34.72092571194563
   },
-  "licitation": 19,
-  "amount": 1432468,
+  "licitation": {
+    "id": 19,
+    "code": "7/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1245625,
+    "hired": 1432468
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -2215,8 +3405,15 @@
     "lng": -60.01280213038918,
     "lat": -34.900452323270784
   },
-  "licitation": 115,
-  "amount": 1400000,
+  "licitation": {
+    "id": 115,
+    "code": "77/16/3"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1400000,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -2228,8 +3425,15 @@
     "lng": -60.01296628351531,
     "lat": -34.89650019995991
   },
-  "licitation": 116,
-  "amount": 680000,
+  "licitation": {
+    "id": 116,
+    "code": "77/16/4"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 680000,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -2241,8 +3445,15 @@
     "lng": -58.00036884951106,
     "lat": -34.93211188051037
   },
-  "licitation": 5,
-  "amount": 3929187,
+  "licitation": {
+    "id": 5,
+    "code": "2/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 3207500,
+    "hired": 3929187
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -2254,8 +3465,15 @@
     "lng": -58.29667615852341,
     "lat": -34.70898803929523
   },
-  "licitation": 161,
-  "amount": 894000,
+  "licitation": {
+    "id": 161,
+    "code": "68/16/3"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 894000,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -2267,8 +3485,15 @@
     "lng": -58.58530498002204,
     "lat": -34.66678809279908
   },
-  "licitation": 17,
-  "amount": 2053519,
+  "licitation": {
+    "id": 17,
+    "code": "6/16/3"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1785669,
+    "hired": 2053519
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -2280,8 +3505,15 @@
     "lng": -58.66287682889353,
     "lat": -34.62567121827098
   },
-  "licitation": 122,
-  "amount": 4106218,
+  "licitation": {
+    "id": 122,
+    "code": "23/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 3570624,
+    "hired": 4106218
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -2293,8 +3525,15 @@
     "lng": -61.59300667923944,
     "lat": -35.494908556250145
   },
-  "licitation": 200,
-  "amount": 1465000,
+  "licitation": {
+    "id": 200,
+    "code": "87/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1465000,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -2306,8 +3545,15 @@
     "lng": -57.79308148650847,
     "lat": -36.63882919377987
   },
-  "licitation": 206,
-  "amount": 1313921,
+  "licitation": {
+    "id": 206,
+    "code": "78/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1313921,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -2319,8 +3565,15 @@
     "lng": -58.28940917818951,
     "lat": -35.07020450594943
   },
-  "licitation": 150,
-  "amount": 1057398,
+  "licitation": {
+    "id": 150,
+    "code": "70/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1057398,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -2332,8 +3585,15 @@
     "lng": -57.32330137747059,
     "lat": -36.52141943766245
   },
-  "licitation": 104,
-  "amount": 1914735,
+  "licitation": {
+    "id": 104,
+    "code": "30/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1672258,
+    "hired": 1914735
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -2345,8 +3605,15 @@
     "lng": -62.31974127549754,
     "lat": -37.50676106531587
   },
-  "licitation": 179,
-  "amount": 1965350,
+  "licitation": {
+    "id": 179,
+    "code": "35/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1709000,
+    "hired": 1965350
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -2358,8 +3625,15 @@
     "lng": -60.2643825716636,
     "lat": -33.41797839665714
   },
-  "licitation": 113,
-  "amount": 1887000,
+  "licitation": {
+    "id": 113,
+    "code": "76/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1887000,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -2371,8 +3645,15 @@
     "lng": -57.58836842999579,
     "lat": -36.71260175717419
   },
-  "licitation": 103,
-  "amount": 511098,
+  "licitation": {
+    "id": 103,
+    "code": "30/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 448336,
+    "hired": 511098
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -2384,8 +3665,15 @@
     "lng": -58.87812909285255,
     "lat": -35.174335191158896
   },
-  "licitation": 132,
-  "amount": 645180,
+  "licitation": {
+    "id": 132,
+    "code": "75/16/2"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 645180,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -2397,8 +3685,15 @@
     "lng": -59.8692498108482,
     "lat": -34.839855743678775
   },
-  "licitation": 119,
-  "amount": 810000,
+  "licitation": {
+    "id": 119,
+    "code": "77/16/5"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 810000,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
@@ -2410,8 +3705,15 @@
     "lng": -63.08515743560226,
     "lat": -36.5715693189463
   },
-  "licitation": 94,
-  "amount": 458866,
+  "licitation": {
+    "id": 94,
+    "code": "29/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 399014,
+    "hired": 458866
+  },
   "status": {
     "id": 50,
     "name": "Contratada"
@@ -2423,8 +3725,15 @@
     "lng": -58.324934936818025,
     "lat": -37.94020917629543
   },
-  "licitation": 106,
-  "amount": 7077369,
+  "licitation": {
+    "id": 106,
+    "code": "32/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 7077369,
+    "hired": null
+  },
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
