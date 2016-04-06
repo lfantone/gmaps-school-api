@@ -17,7 +17,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60428300,
   "establishment": "Escuela Primaria Nº4 Martin Miguel De Güemes",
@@ -37,7 +38,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60664800,
   "establishment": "Escuela Primaria Nº18 Nicolas Avellaneda",
@@ -57,7 +59,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 61398600,
   "establishment": "Escuela Primaria Nº10 Carlos F. Biocca",
@@ -77,7 +80,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60226700,
   "establishment": "Escuela Primaria Nº9 Jose Hernandez",
@@ -97,7 +101,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60273900,
   "establishment": "Escuela Primaria Nº6 Perito Moreno",
@@ -117,7 +122,8 @@
   "status": {
     "id": 20,
     "name": "Elegibilidad"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60688500,
   "establishment": "Escuela Primaria Nº12 Constancio C. Vigil",
@@ -137,7 +143,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60309800,
   "establishment": "Escuela Primaria Nº24 Juan Jose Paso",
@@ -157,7 +164,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 62168800,
   "establishment": "Jardin De Infantes Rural Nº5",
@@ -177,7 +185,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60790900,
   "establishment": "Escuela Agraria Nº1",
@@ -197,7 +206,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60560500,
   "establishment": "Escuela Primaria Nº44 Esteban Echeverria",
@@ -212,12 +222,13 @@
   "amount": {
     "currency": "ARS",
     "official": 3017889,
-    "hired": 3470572
+    "hired": null
   },
   "status": {
-    "id": 50,
-    "name": "Contratada"
-  }
+    "id": 74,
+    "name": "En Ejecución"
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 61093300,
   "establishment": "Escuela De Educación Primaria Nº 9 \\almirante Guillermo Brown\\",
@@ -237,7 +248,8 @@
   "status": {
     "id": 20,
     "name": "Elegibilidad"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 62305700,
   "establishment": "Escuela De Educación Secundaria Técnica Nº1",
@@ -257,7 +269,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 62307800,
   "establishment": "Jardín De Infantes Nº946",
@@ -277,7 +290,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 61640100,
   "establishment": "Centro De Educacion Física Nº42",
@@ -286,18 +300,19 @@
     "lat": -37.321606405093156
   },
   "licitation": {
-    "id": 109,
+    "id": 209,
     "code": "33/16/2"
   },
   "amount": {
     "currency": "ARS",
     "official": 110440,
-    "hired": 0
+    "hired": null
   },
   "status": {
-    "id": 50,
-    "name": "Contratada"
-  }
+    "id": 20,
+    "name": "Elegibilidad"
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60923800,
   "establishment": "Escuela Agraria Nº1 Dr. Alejandro Korn",
@@ -317,7 +332,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60564700,
   "establishment": "Escuela Secundaria Nº4 Heroes De Malvinas",
@@ -337,7 +353,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 61821800,
   "establishment": "Esc. Secundaria Basica Nº20",
@@ -357,7 +374,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 61780800,
   "establishment": "Escuela De Educación Secundaria Nº43",
@@ -377,7 +395,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 62046500,
   "establishment": "Escuela Secundaria Nº42",
@@ -397,7 +416,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 62122300,
   "establishment": "Escuela Primaria Nº14",
@@ -417,7 +437,8 @@
   "status": {
     "id": 20,
     "name": "Elegibilidad"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 61024800,
   "establishment": "Escuela Primaria Nº1 General San Martin",
@@ -437,7 +458,8 @@
   "status": {
     "id": 20,
     "name": "Elegibilidad"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 61759300,
   "establishment": "Escuela Secundaria Nº10",
@@ -457,7 +479,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60644900,
   "establishment": "Escuela Primaria Nº29 Manuel Nicolas Savio",
@@ -477,7 +500,8 @@
   "status": {
     "id": 20,
     "name": "Elegibilidad"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 61144900,
   "establishment": "Escuela Primaria Nº49 Dr. Luis Pasteur",
@@ -497,7 +521,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 61789900,
   "establishment": "Escuela De Educación Secundaria Nº26",
@@ -517,7 +542,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 61018400,
   "establishment": "Escuela Primaria Nº76 Capitan Pedro E.giachino",
@@ -537,7 +563,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 61022000,
   "establishment": "Escuela Primaria Nº72",
@@ -557,7 +584,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 61731900,
   "establishment": "Escuela Secundaria Nº46",
@@ -577,7 +605,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60913000,
   "establishment": "Escuela Primaria Nº22 Jorge Newbery",
@@ -597,7 +626,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60550000,
   "establishment": "Escuela Primaria Nº5 Antartida Argentina",
@@ -617,7 +647,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 61008800,
   "establishment": "Escuela Primaria Nº4 Luis Elias Vernet",
@@ -637,7 +668,8 @@
   "status": {
     "id": 20,
     "name": "Elegibilidad"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60532500,
   "establishment": "Escuela Primaria Nº10 Domingo Faustino Sarmiento",
@@ -657,7 +689,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 61069400,
   "establishment": "Escuela Secundaria Nº22",
@@ -677,7 +710,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60890700,
   "establishment": "Escuela Secundaria Nº3 Naciones Unidas",
@@ -697,7 +731,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 61772500,
   "establishment": "Escuela Secundaria Nº84",
@@ -717,7 +752,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60483900,
   "establishment": "Jardin De Infantes Nº943",
@@ -737,7 +773,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60665500,
   "establishment": "Jardin De Infantes Nº901 Carlos A. Diehl",
@@ -757,7 +794,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 61008200,
   "establishment": "Escuela De Educación Agropecuaria Nº1 Bernardo Yraizoz",
@@ -777,7 +815,8 @@
   "status": {
     "id": 20,
     "name": "Elegibilidad"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60497600,
   "establishment": "Escuela Secundaria Nº1 Dr. Gustavo Martinez Zuviria",
@@ -797,7 +836,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 61819900,
   "establishment": "Escuela Secundaria Nº11",
@@ -817,7 +857,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 61862900,
   "establishment": "Escuela Secundaria Nº8",
@@ -837,7 +878,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60142700,
   "establishment": "Jardin De Infantes Nº902 Juana Manso",
@@ -857,7 +899,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60203600,
   "establishment": "Escuela Primaria Nº72 Pedro Medrano",
@@ -877,7 +920,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60209000,
   "establishment": "Escuela Primaria Nº18 Olegario Victor Andrade",
@@ -897,7 +941,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 61818800,
   "establishment": "Escuela De Educación Secundaria Nº21 Nuestra Señora De Las ",
@@ -917,7 +962,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 61105900,
   "establishment": "Escuela Primaria Nº48 Bahia Buen Suceso",
@@ -937,7 +983,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60645400,
   "establishment": "Escuela Primaria Nº54 Jorge Newbery",
@@ -957,7 +1004,8 @@
   "status": {
     "id": 20,
     "name": "Elegibilidad"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60995600,
   "establishment": "Escuela Especial Nº502 Para Sordos E Hipoacusicos",
@@ -977,7 +1025,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60252200,
   "establishment": "Escuela Primaria Nº21 Antartida Argentina",
@@ -997,7 +1046,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60832700,
   "establishment": "Escuela Primaria Nº29 Sargento Cabral",
@@ -1017,7 +1067,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60261400,
   "establishment": "Escuela Primaria Nº51 Brigadier Anacleto Llosa",
@@ -1037,7 +1088,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 61035500,
   "establishment": "Jardin De Infantes Nº913 El Parque",
@@ -1057,7 +1109,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60841400,
   "establishment": "Escuela Primaria Nº29 Republica De Venezuela",
@@ -1077,7 +1130,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60699400,
   "establishment": "Escuela Primaria Nº14 Fragata Presidente Sarmiento",
@@ -1097,7 +1151,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 61187900,
   "establishment": "Escuela Primaria Nº3 Manuel Belgrano",
@@ -1117,7 +1172,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  3"
 }, {
   "id": 61009300,
   "establishment": "Escuela Primaria Nº37 Granaderos A Caballo Gral. San Martin",
@@ -1137,7 +1193,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 61167900,
   "establishment": "Escuela Secundaria Nº1",
@@ -1157,7 +1214,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 61038300,
   "establishment": "Jardin De Infantes Nº966 Pampa",
@@ -1177,7 +1235,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60863500,
   "establishment": "Escuela Secundaria Nº4 Cristo Obrero",
@@ -1197,7 +1256,8 @@
   "status": {
     "id": 20,
     "name": "Elegibilidad"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60962000,
   "establishment": "Jardin De Infantes Nº901 Manuel Belgrano",
@@ -1217,7 +1277,8 @@
   "status": {
     "id": 20,
     "name": "Elegibilidad"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 61032200,
   "establishment": "Escuela Secundaria Nº5 Islas Malvinas",
@@ -1237,7 +1298,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 62025800,
   "establishment": "Escuela Secundaria Nº1",
@@ -1257,7 +1319,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 61191800,
   "establishment": "Escuela De Educación Secundaria Técnica Nº1 Almirante Ramón",
@@ -1277,7 +1340,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60044900,
   "establishment": "Escuela Primaria Nº5 Jonas Salk",
@@ -1297,7 +1361,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60007000,
   "establishment": "Jardin De Infantes Nº901 Merceditas De San Martín",
@@ -1317,7 +1382,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60027500,
   "establishment": "Jardin De Infantes Nº913dr. Julio Cesar Loveccino",
@@ -1337,7 +1403,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 61805400,
   "establishment": "Escuela De Educación Secundaria Nº16",
@@ -1357,7 +1424,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60840500,
   "establishment": "Escuela Primaria Nº31 Conrado Nale Roxlo",
@@ -1377,7 +1445,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60505400,
   "establishment": "Escuela Secundaria Nº1 Paso Alsina",
@@ -1397,7 +1466,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  3"
 }, {
   "id": 61652100,
   "establishment": "Centro Educativo Complementario Nº1 Don Bosco",
@@ -1417,7 +1487,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60550600,
   "establishment": "Jardin De Infantes Nº901",
@@ -1437,7 +1508,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 61025100,
   "establishment": "Escuela Primaria Nº17 Malvinas Argentinas",
@@ -1457,7 +1529,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 61167000,
   "establishment": "Escuela Primaria Nº31 Marina Mercante Argentina",
@@ -1477,7 +1550,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 61662800,
   "establishment": "Centro Educativo Complementario Nº1 Un Lugar Para Mi",
@@ -1497,7 +1571,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 61784100,
   "establishment": "Escuela Secundaria Nº6",
@@ -1517,7 +1592,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60160800,
   "establishment": "Jardin De Infantes Nº901 Comandante Tomas Espora",
@@ -1537,7 +1613,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60716500,
   "establishment": "Escuela Primaria Nº154 Republica De Italia",
@@ -1557,7 +1634,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 61091300,
   "establishment": "Escuela Primaria Nº6 Nuestra Señora De La Merced",
@@ -1577,7 +1655,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 61739600,
   "establishment": "Escuela Secundaria Nº20",
@@ -1597,7 +1676,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 61773200,
   "establishment": "Escuela Secundaria Nº47",
@@ -1617,7 +1697,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60207000,
   "establishment": "Escuela Primaria Nº49 Tierra Del Fuego",
@@ -1637,7 +1718,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60430100,
   "establishment": "Escuela Primaria Nº48 Joaquin Tiradentes",
@@ -1657,7 +1739,8 @@
   "status": {
     "id": 20,
     "name": "Elegibilidad"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 61704400,
   "establishment": "Escuela Primaria Nº212",
@@ -1677,7 +1760,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 61498700,
   "establishment": "Centro De Formacion Laboral Nº3 Rodolfo J. Walsh",
@@ -1697,7 +1781,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 62042800,
   "establishment": "Escuela Secundaria Nº4",
@@ -1717,7 +1802,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 62043700,
   "establishment": "Escuela Secundaria Nº38",
@@ -1737,7 +1823,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60921200,
   "establishment": "Escuela Primaria Nº33 Remedios Escalada De San Martin",
@@ -1757,7 +1844,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60554700,
   "establishment": "Escuela Primaria Nº16 Almafuerte",
@@ -1777,7 +1865,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 61117600,
   "establishment": "Escuela Primaria Nº26 Ricardo Rojas",
@@ -1797,7 +1886,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60026800,
   "establishment": "Escuela Primaria Nº2 Julio Argentino Roca",
@@ -1817,7 +1907,8 @@
   "status": {
     "id": 20,
     "name": "Elegibilidad"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 61334300,
   "establishment": "Escuela Primaria Nº37 Union Latinoamericana",
@@ -1837,7 +1928,8 @@
   "status": {
     "id": 20,
     "name": "Elegibilidad"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 61178900,
   "establishment": "Escuela Especial Nº501",
@@ -1857,7 +1949,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60822700,
   "establishment": "Escuela Primaria Nº4 General Bartolome Mitre",
@@ -1877,7 +1970,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 62023800,
   "establishment": "Escuela Secundaria Nº15",
@@ -1897,7 +1991,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 61793100,
   "establishment": "Esc. Secundaria Basica Nº51",
@@ -1917,7 +2012,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60281500,
   "establishment": "Escuela Primaria Nº49 Nuestra Señora De Los Buenos Aires",
@@ -1937,7 +2033,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 61740800,
   "establishment": "Escuela Secundaria Nº20",
@@ -1952,12 +2049,13 @@
   "amount": {
     "currency": "ARS",
     "official": 1636000,
-    "hired": 1881400
+    "hired": null
   },
   "status": {
-    "id": 50,
-    "name": "Contratada"
-  }
+    "id": 74,
+    "name": "En Ejecución"
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 61025600,
   "establishment": "Escuela Especial Nº501 Solidaridad",
@@ -1977,7 +2075,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 61818200,
   "establishment": "Esc. Secundaria Basica Nº8",
@@ -1997,7 +2096,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60906800,
   "establishment": "Escuela Primaria Nº72 Ezequiel Martinez Estrada",
@@ -2017,7 +2117,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60641600,
   "establishment": "Escuela Primaria Nº59 Prof. Victor Mercante",
@@ -2037,7 +2138,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 61457800,
   "establishment": "Escuela Polimodal De Arte Nº1",
@@ -2057,7 +2159,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60676100,
   "establishment": "Escuela Primaria Nº76 Perito Francisco P. Moreno",
@@ -2077,7 +2180,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60347000,
   "establishment": "Escuela Primaria Nº65 Crucero General Belgrano",
@@ -2097,7 +2201,8 @@
   "status": {
     "id": 20,
     "name": "Elegibilidad"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 61078500,
   "establishment": "Escuela Primaria Nº12 Vicenta Castro Cambon",
@@ -2117,7 +2222,8 @@
   "status": {
     "id": 20,
     "name": "Elegibilidad"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60996800,
   "establishment": "Escuela Primaria Nº26 Almafuerte",
@@ -2137,7 +2243,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 61101500,
   "establishment": "Jardin De Infantes Nº901 Maria Elisa Figueroa",
@@ -2157,7 +2264,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 61118500,
   "establishment": "Escuela Primaria Nº6 Yapeyu",
@@ -2177,7 +2285,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60898400,
   "establishment": "Escuela Primaria Nº11 Florentino Ameghino",
@@ -2197,7 +2306,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 61769800,
   "establishment": "Esc. Secundaria Basica Nº26",
@@ -2217,7 +2327,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 61673300,
   "establishment": "Escuela Especial Nº505",
@@ -2237,7 +2348,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 61143900,
   "establishment": "Escuela Primaria Nº21 Antartida Argentina",
@@ -2257,7 +2369,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60844400,
   "establishment": "Escuela Primaria Nº51 Juan Omar Abrahan",
@@ -2277,7 +2390,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 61213300,
   "establishment": "Escuela Primaria Nº8 Sgto Juan Bautista Cabral",
@@ -2297,7 +2411,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 61000000,
   "establishment": "Escuela Primaria Nº44 Miguel Cane",
@@ -2317,7 +2432,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60671900,
   "establishment": "Escuela De Educación Secundaria Técnica Nº2",
@@ -2337,7 +2453,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60110100,
   "establishment": "Jardin De Infantes Nº919 Alihuen",
@@ -2357,7 +2474,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60550300,
   "establishment": "Escuela Primaria Nº1 Constancio C Vigil",
@@ -2377,7 +2495,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60320300,
   "establishment": "Escuela Primaria Nº8 Hipolito Yrigoyen",
@@ -2397,7 +2516,8 @@
   "status": {
     "id": 20,
     "name": "Elegibilidad"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 61157000,
   "establishment": "Escuela Primaria Nº36 Fray Luis Beltran",
@@ -2417,7 +2537,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60716100,
   "establishment": "Escuela Especial Nº510 America Latina",
@@ -2437,7 +2558,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60946700,
   "establishment": "Escuela Primaria Nº20 Florencio Molina Campos",
@@ -2457,7 +2579,8 @@
   "status": {
     "id": 20,
     "name": "Elegibilidad"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60776200,
   "establishment": "Escuela Primaria Nº29 Miguel Martin De Güemes",
@@ -2477,7 +2600,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 61106200,
   "establishment": "Escuela Primaria Nº46 Brigadier General Don Juan Manuel De",
@@ -2497,7 +2621,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60680600,
   "establishment": "Escuela Primaria Nº20 Cecilia Mattaldi De Rigolleau",
@@ -2517,7 +2642,29 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  2"
+}, {
+  "id": 61356900,
+  "establishment": "Escuela Primaria Nº29 Barrancas Del Varadero",
+  "geo": {
+    "lng": -59.51608621560663,
+    "lat": -33.81260112634493
+  },
+  "licitation": {
+    "id": 210,
+    "code": "300/16/1"
+  },
+  "amount": {
+    "currency": "ARS",
+    "official": 1500000,
+    "hired": null
+  },
+  "status": {
+    "id": 20,
+    "name": "Elegibilidad"
+  },
+  "program": "PROMEDU"
 }, {
   "id": 60593300,
   "establishment": "Escuela De Educación Secundaria Técnica Nº2",
@@ -2532,12 +2679,13 @@
   "amount": {
     "currency": "ARS",
     "official": 426250,
-    "hired": 490186
+    "hired": null
   },
   "status": {
-    "id": 50,
-    "name": "Contratada"
-  }
+    "id": 74,
+    "name": "En Ejecución"
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60926900,
   "establishment": "Escuela Primaria Nº57 Independencia",
@@ -2557,7 +2705,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 61697300,
   "establishment": "Jardin De Infantes Nº946",
@@ -2577,7 +2726,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60304400,
   "establishment": "Escuela Primaria Nº41 Profesor Francisco Guerrini",
@@ -2597,7 +2747,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60622700,
   "establishment": "Escuela Primaria Nº92 America",
@@ -2617,7 +2768,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60752500,
   "establishment": "Escuela Primaria Nº13 Almafuerte",
@@ -2637,7 +2789,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 61316300,
   "establishment": "Escuela Primaria Nº94 Santa Catalina",
@@ -2657,7 +2810,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60819200,
   "establishment": "Escuela Primaria Nº78 25 De Mayo",
@@ -2677,7 +2831,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 61983200,
   "establishment": "Esc. Secundaria Basica Nº18",
@@ -2697,7 +2852,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60252400,
   "establishment": "Escuela Primaria Nº15 Nuestra Señora De Itati",
@@ -2717,7 +2873,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 61134700,
   "establishment": "Escuela Primaria Nº62 Alfonsina Storni",
@@ -2737,7 +2894,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 61010800,
   "establishment": "Escuela Primaria Nº3 Jose Manuel Estrada",
@@ -2757,7 +2915,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 61197200,
   "establishment": "Escuela Secundaria Nº1 Corbeta Uruguay",
@@ -2777,7 +2936,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 61488200,
   "establishment": "Jardin De Infantes Nº905",
@@ -2797,7 +2957,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60595300,
   "establishment": "Escuela Especial Nº501 Hena Yanzon",
@@ -2817,7 +2978,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60082600,
   "establishment": "Escuela Primaria Nº39 Sargento Cabral",
@@ -2837,7 +2999,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 61329200,
   "establishment": "Escuela Primaria Nº80 Ejercito Argentino",
@@ -2857,7 +3020,8 @@
   "status": {
     "id": 20,
     "name": "Elegibilidad"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60194200,
   "establishment": "Jardin De Infantes Nº903 Dr.ricardo Gutierrez",
@@ -2877,7 +3041,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 61804600,
   "establishment": "Esc. Secundaria Basica Nº18",
@@ -2897,7 +3062,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60825900,
   "establishment": "Escuela De Educación Secundaria Técnica Nº1 Cnel. Manuel Do",
@@ -2917,7 +3083,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 61821700,
   "establishment": "Escuela Secundaria Nº57",
@@ -2932,12 +3099,13 @@
   "amount": {
     "currency": "ARS",
     "official": 549663,
-    "hired": 632114
+    "hired": null
   },
   "status": {
-    "id": 50,
-    "name": "Contratada"
-  }
+    "id": 74,
+    "name": "En Ejecución"
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60885500,
   "establishment": "Escuela Primaria Nº79 Jose Maria Bustillo",
@@ -2957,7 +3125,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60623100,
   "establishment": "Escuela Secundaria Nº32 Mary O Graham",
@@ -2977,7 +3146,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016 Obras Individuales"
 }, {
   "id": 61672000,
   "establishment": "Jardin De Infantes Nº977 Jose Melchor Romero",
@@ -2997,7 +3167,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60655800,
   "establishment": "Jardin De Infantes Nº907",
@@ -3017,7 +3188,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60897200,
   "establishment": "Escuela Primaria Nº2 General Jose De San Martin",
@@ -3037,7 +3209,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 61319600,
   "establishment": "Escuela Primaria Nº55 Bandera De Los Andes",
@@ -3057,7 +3230,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 61136700,
   "establishment": "Escuela Primaria Nº24 Doctor Dardo Rocha",
@@ -3077,7 +3251,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60266400,
   "establishment": "Escuela Primaria Nº48 Fragata Presidente Sarmiento",
@@ -3097,7 +3272,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 62085500,
   "establishment": "Centro Educativo Para La Produccion Total Nº34",
@@ -3106,18 +3282,19 @@
     "lat": -38.357174450049804
   },
   "licitation": {
-    "id": 107,
+    "id": 208,
     "code": "33/16/1"
   },
   "amount": {
     "currency": "ARS",
     "official": 4947066,
-    "hired": 0
+    "hired": null
   },
   "status": {
-    "id": 50,
-    "name": "Contratada"
-  }
+    "id": 20,
+    "name": "Elegibilidad"
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60907000,
   "establishment": "Escuela Primaria Nº22 España",
@@ -3137,7 +3314,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 61399100,
   "establishment": "Escuela Primaria Nº21 Provincias Argentinas",
@@ -3157,7 +3335,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60366400,
   "establishment": "Escuela Primaria Nº1 Francisco Narciso Laprida",
@@ -3177,7 +3356,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 61319700,
   "establishment": "Escuela Primaria Nº56",
@@ -3197,7 +3377,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 61839400,
   "establishment": "Esuela De Educación Secundaria Nº46",
@@ -3217,7 +3398,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60096800,
   "establishment": "Escuela Primaria Nº58 Contralmirante Francisco Jose Segui",
@@ -3237,7 +3419,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60769300,
   "establishment": "Escuela Primaria Nº65 Comodoro Luis Py",
@@ -3257,7 +3440,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 61316200,
   "establishment": "Escuela Primaria Nº92 2 De Abril",
@@ -3277,7 +3461,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60315200,
   "establishment": "Escuela Primaria Nº70 19 De Noviembre",
@@ -3297,7 +3482,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60855000,
   "establishment": "Escuela De Educación Secundaria Técnica Nº6 Albert Thomas",
@@ -3317,7 +3503,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 61136800,
   "establishment": "Jardin De Infantes Nº943 Ministro Zarini",
@@ -3337,7 +3524,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 61288400,
   "establishment": "Escuela De Teatro La Plata",
@@ -3357,7 +3545,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 61145100,
   "establishment": "Escuela Primaria Nº1 Jose De San Martin",
@@ -3377,7 +3566,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60456300,
   "establishment": "Escuela Primaria Nº171 Mariano Severo Balcarce",
@@ -3397,7 +3587,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60924200,
   "establishment": "Escuela Primaria Nº3 Nicolas Avellaneda",
@@ -3417,7 +3608,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60956600,
   "establishment": "Escuela Primaria Nº7 Juana Manso",
@@ -3437,7 +3629,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 61771100,
   "establishment": "Escuela Secundaria Nº68",
@@ -3457,7 +3650,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60399300,
   "establishment": "Jardin De Infantes Nº967 Obrador",
@@ -3477,7 +3671,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 61032201,
   "establishment": "Anexo I De Escuela Secundaria Nº5",
@@ -3497,7 +3692,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60567601,
   "establishment": "Extension I De Escuela Secundaria Nº3",
@@ -3517,7 +3713,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60223400,
   "establishment": "Escuela Primaria Nº7 Domingo Faustino Sarmiento",
@@ -3537,7 +3734,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  3"
 }, {
   "id": 60794200,
   "establishment": "Escuela Secundaria Nº1 Julio Argentino Roca",
@@ -3557,7 +3755,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60610800,
   "establishment": "Escuela Primaria Nº4 Juan Bautista Alberdi",
@@ -3577,7 +3776,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 61088800,
   "establishment": "Jardin De Infantes Nº901",
@@ -3597,7 +3797,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60400100,
   "establishment": "Escuela Primaria Nº6 Nuestra Señora Del Carmen",
@@ -3617,7 +3818,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60184400,
   "establishment": "Escuela Primaria Nº41 Jose Hernandez",
@@ -3637,7 +3839,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60234400,
   "establishment": "Escuela Primaria Nº7 Primera Junta",
@@ -3657,7 +3860,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60695500,
   "establishment": "Escuela Primaria Nº8 Martin Miguel De Güemes",
@@ -3677,7 +3881,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 60426000,
   "establishment": "Escuela Agraria Valentin Coria",
@@ -3697,7 +3902,8 @@
   "status": {
     "id": 30,
     "name": "Llamada a Oferentes"
-  }
+  },
+  "program": "FREC 2016  2"
 }, {
   "id": 62250400,
   "establishment": "Escuela Secundaria Nº3",
@@ -3717,7 +3923,8 @@
   "status": {
     "id": 50,
     "name": "Contratada"
-  }
+  },
+  "program": "FREC 2016  1"
 }, {
   "id": 60286800,
   "establishment": "Escuela Primaria Nº19 John F. Kenedy",
@@ -3735,7 +3942,8 @@
     "hired": null
   },
   "status": {
-    "id": 30,
-    "name": "Llamada a Oferentes"
-  }
+    "id": 42,
+    "name": "Adjudicada"
+  },
+  "program": "FREC 2016  1"
 }]
