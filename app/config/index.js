@@ -11,10 +11,11 @@ const pck = require(path.join('..', '..', 'package'));
 const nconf = require('nconf');
 
 const DEFAULT_ENVIRONMENT = 'development';
+process.env.NODE_ENV = process.env.NODE_ENV || DEFAULT_ENVIRONMENT;
 
 nconf
   .argv()
-  .env()
+  .env('_')
   .file({
     file: path.join(__dirname, 'properties.json')
   })
@@ -24,7 +25,7 @@ nconf
     }
   })
   .overrides({
-    env: process.env.NODE_ENV || DEFAULT_ENVIRONMENT,
+    environment: process.env.NODE_ENV,
     morgan: {
       options: {
         skip: () => process.env.NODE_ENV === 'test'
