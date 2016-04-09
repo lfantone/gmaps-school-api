@@ -18,5 +18,11 @@
   "cacheControl": {
     "public": true,
     "maxAge": 3600
+  },
+  "mssql": {
+    "user": "geobra",
+    "password": "fhat1972",
+    "server": "localhost",
+    "database": "geobra"
   }
 }
